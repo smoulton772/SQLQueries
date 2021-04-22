@@ -178,7 +178,7 @@ BEGIN
       ,[Comment 2]
       ,[DateCreated 2])
 	  SELECT  * FROM ' + @tablename
-          + ' CurrT inner join #TempTable TEMP ON CurrT.UserEmail = Temp.UserEmail where CurrT.FirstName <> Temp.FirstName and CurrT.LastName <> Temp.LastName
+          + ' CurrT inner join #TempTable TEMP ON CurrT.UserEmail = Temp.UserEmail where CurrT.FirstName <> Temp.FirstName or CurrT.LastName <> Temp.LastName
 	  '
     EXEC (@queries)
 
