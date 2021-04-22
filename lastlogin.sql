@@ -1,12 +1,15 @@
 --add this to temptable 
 
 
-Select * From (
+SELECT *
+FROM
+(
+    SELECT ROW_NUMBER() OVER (PARTITION BY Email ORDER BY Email, Anniversary DESC) Last_Login_Rank,
+           *
+    FROM #TempUsers
+) AS TempT
+WHERE Last_Login_Rank = 1
+ORDER BY DBName,
+         Email
 
-Select  ROW_NUMBER() OVER (PARTITION BY Email order By Email, Anniversary DESC) Last_Login_Rank, * From #TempUsers
-
-) As TempT
-
-Where Last_Login_Rank = 1
-
-Order By  DBName, Email
+         --google partition by row number
