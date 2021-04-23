@@ -1,0 +1,729 @@
+Last_Login_Rank,Id,System,FirstName,LastName,UserEmail,Station,LastLogin,DisabledOn,Comment,DateCreated
+1,6,MGMS,Agusto,Oliva,11agusto.oliva@dhl.com,MGMS,NULL,NULL,NULL,Apr 20 2021  3:07PM
+1,33,LNC,Angel,Duran,a.duran@dhl.com,LNC,Feb 20 2021 11:58PM,NULL,NULL,Apr 14 2021 10:25PM
+1,40,LNC,Anthony,Falcinelli,a.falcinelli@dhl.com,LNC,Mar 18 2021  1:54PM,NULL,NULL,Apr 14 2021 10:25PM
+1,43,LNC,Anthony,Nicolosi,a.nicolosi@dhl.com,LNC,Mar 25 2021 10:47PM,NULL,NULL,Apr 14 2021 10:25PM
+1,37,LNC,Angel,Rodriguez,a.rodriguez3@dhl.com,LNC,Jan 28 2021  4:16PM,NULL,NULL,Apr 14 2021 10:25PM
+1,1,LNC,Adalberto,Orozco,adalberto.orozco@dhl.com,LNC,Feb  7 2021  7:24PM,Apr 13 2021 12:00AM,NULL,Apr 14 2021 10:24PM
+2,1,MGMS,Adalberto,Orozco,adalberto.orozco@dhl.com,MGMS,NULL,NULL,NULL,Apr 20 2021  3:07PM
+1,2,LNC,Adam,Edman,adam.edman@dhl.com,LNC,Mar 30 2021 11:43AM,Apr 10 2021 12:00AM,NULL,Apr 14 2021 10:25PM
+2,2,MGMS,Adam,Edman,adam.edman@dhl.com,MGMS,NULL,NULL,NULL,Apr 20 2021  3:07PM
+1,3,LNC,Adan,Quiroz,adan.quiroz@dhl.com,LNC,Jan  6 2021  4:16PM,Apr  9 2021 12:00AM,NULL,Apr 14 2021 10:25PM
+2,3,MGMS,Adan,Quiroz,adan.quiroz@dhl.com,MGMS,NULL,Apr  9 2021 12:00AM,NULL,Apr 20 2021  3:07PM
+1,4,LNC,Adolit,Benitez,adolit.benitez@dhl.com,LNC,Feb 13 2021  8:20PM,NULL,NULL,Apr 14 2021 10:25PM
+2,4,MGMS,Adolit,Benitez,adolit.benitez@dhl.com,MGMS,NULL,Apr  8 2021 12:00AM,NULL,Apr 20 2021  3:07PM
+1,5,LNC,Adrian,Bernhauser,adrian.bernhauser@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:25PM
+2,5,MGMS,Adrian,Bernhauser,adrian.bernhauser@dhl.com,MGMS,NULL,NULL,NULL,Apr 20 2021  3:07PM
+1,172,LNC,Emil,Agaev,agaev.emil@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:26PM
+1,6,LNC,Agusto,Oliva,agusto.oliva@dhl.com,LNC,Feb 13 2021 12:03AM,NULL,NULL,Apr 14 2021 10:25PM
+1,12,ccs,Air Import,Non-AMS Admin,ainonams.admin@dhl.com,ccs,NULL,NULL,NULL,Apr 14 2021 10:10PM
+1,10,ccs,"Air Import ",Non-AMS Control Tower1,ainonams.ct1@dhl.com,ccs,NULL,NULL,NULL,Apr 14 2021 10:10PM
+1,11,ccs,"Air Import ",Non-AMS Control Tower2,ainonams.ct2@dhl.com,ccs,NULL,NULL,NULL,Apr 14 2021 10:10PM
+1,8,ccs,Air Import,Non-AMS User1,ainonams.user1@dhl.com,ccs,Mar 14 2021  2:02PM,NULL,NULL,Apr 14 2021 10:10PM
+1,9,ccs,Air Import,Non-AMS User2,ainonams.user2@dhl.com,ccs,NULL,NULL,NULL,Apr 14 2021 10:10PM
+1,7,LNC,Akela,Akapute11,akela.akapute@dhl.com,LNC,Mar 25 2021  1:53AM,NULL,NULL,Apr 14 2021 10:25PM
+2,7,MGMS,Akela,Akapute,akela.akapute@dhl.com,MGMS,NULL,NULL,NULL,Apr 20 2021  3:07PM
+1,295,LNC,Joel,Alanis,alanis.joel@dhl.com,LNC,Mar 21 2021  9:56AM,NULL,NULL,Apr 14 2021 10:27PM
+1,9,LNC,Albert,Joyce,albert.joyce@dhl.com,LNC,Mar 30 2021 11:23PM,NULL,NULL,Apr 14 2021 10:25PM
+2,9,MGMS,Albert,Joyce,albert.joyce@dhl.com,MGMS,Mar 15 2021 11:23PM,NULL,NULL,Apr 20 2021  3:07PM
+3,34,ccs,Albert,Joyce,albert.joyce@dhl.com,ccs,NULL,NULL,NULL,Apr 20 2021  3:07PM
+1,10,LNC,Alberto,Cases,alberto.cases@dhl.com,LNC,Mar 31 2021 11:03PM,NULL,NULL,Apr 14 2021 10:25PM
+2,10,MGMS,Alberto,Cases,alberto.cases@dhl.com,MGMS,Mar 15 2021 11:23PM,NULL,NULL,Apr 20 2021  3:07PM
+3,35,ccs,Alberto,Cases,alberto.cases@dhl.com,ccs,NULL,NULL,NULL,Apr 20 2021  3:07PM
+1,8,LNC,Albert,Falu11,alberto.falu2@dhl.com,LNC,Mar 27 2021  6:39PM,NULL,NULL,Apr 14 2021 10:25PM
+2,8,MGMS,Albert,Falu,alberto.falu2@dhl.com,MGMS,NULL,NULL,NULL,Apr 20 2021  3:07PM
+3,33,ccs,Albert,Falu,alberto.falu2@dhl.com,ccs,NULL,NULL,NULL,Apr 20 2021  3:07PM
+1,11,LNC,Alberto,Jimenez,alberto.jimenez3@dhl.com,LNC,Mar 25 2021  1:00PM,NULL,NULL,Apr 14 2021 10:25PM
+2,11,MGMS,Alberto,Jimenez,alberto.jimenez3@dhl.com,MGMS,Mar 15 2021 11:23PM,NULL,NULL,Apr 20 2021  3:08PM
+3,36,ccs,Alberto,Jimenez,alberto.jimenez3@dhl.com,ccs,NULL,NULL,NULL,Apr 20 2021  3:08PM
+1,12,MGMS,Alejandro,Godizano,alejandro.godizano@dhl.com,MGMS,Mar 30 2021 11:23PM,NULL,NULL,Apr 20 2021  3:08PM
+2,12,LNC,Alejandro,Godizano,alejandro.godizano@dhl.com,LNC,Feb 19 2021  3:09AM,NULL,NULL,Apr 14 2021 10:25PM
+3,37,ccs,Alejandro,Godizano11,alejandro.godizano@dhl.com,ccs,NULL,NULL,NULL,Apr 20 2021  3:08PM
+1,13,LNC,Alejandro,Pelayo,alejandro.pelayo@dhl.com,LNC,Mar 30 2021 12:01AM,NULL,NULL,Apr 14 2021 10:25PM
+2,13,MGMS,Alejandro,Pelayo,alejandro.pelayo@dhl.com,MGMS,NULL,NULL,NULL,Apr 20 2021  3:08PM
+1,38,ccs,Alejandro,Pelayo,alejandro.pelayo@dhl.com11,ccs,NULL,NULL,NULL,Apr 20 2021  3:08PM
+1,15,LNC,Alexis,Cruz,alex.cruz2@dhl.com,LNC,Jan 20 2021  4:59AM,NULL,NULL,Apr 14 2021 10:25PM
+2,15,MGMS,Alexis,Cruz,alex.cruz2@dhl.com,MGMS,NULL,NULL,NULL,Apr 20 2021  3:08PM
+3,40,ccs,Alexis,Cruz,alex.cruz2@dhl.com,ccs,NULL,NULL,NULL,Apr 20 2021  3:08PM
+1,14,LNC,Alexander,Lecourtois,alexander.lecourtois@dhl.com,LNC,Apr  1 2021  9:07AM,NULL,NULL,Apr 14 2021 10:25PM
+2,14,MGMS,Alexander,Lecourtois,alexander.lecourtois@dhl.com,MGMS,NULL,NULL,NULL,Apr 20 2021  3:08PM
+3,39,ccs,Alexander,Lecourtois11,alexander.lecourtois@dhl.com,ccs,NULL,NULL,NULL,Apr 20 2021  3:08PM
+1,16,LNC,Alexis,Easter,alexis.easter2@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:25PM
+1,17,LNC,Alfonso,Sanchez,alfonso.sanchez@dhl.com,LNC,Jan  6 2021  4:16PM,NULL,NULL,Apr 14 2021 10:25PM
+1,18,LNC,Alfred,Martucciello,alfred.martuciello@dhl.com,LNC,Jan 28 2021  4:16PM,NULL,NULL,Apr 14 2021 10:25PM
+1,19,LNC,Alfredo,Gonzalez,alfredo.gonzalez1@dhl.com,LNC,Jan  6 2021  4:16PM,NULL,NULL,Apr 14 2021 10:25PM
+1,624,LNC,Thomas,Alianello,alianello.thomas@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:30PM
+1,20,LNC,Alicia,Corwin,alicia.corwin@dhl.com,LNC,Mar 18 2021  9:38PM,NULL,NULL,Apr 14 2021 10:25PM
+1,21,LNC,Allan,Gomez,allan.gomez@dhl.com,LNC,Mar 27 2021  7:18PM,NULL,NULL,Apr 14 2021 10:25PM
+1,396,LNC,Lester,Alvarado,alvarado.lester@dhl.com,LNC,Mar 22 2021 10:39AM,NULL,NULL,Apr 14 2021 10:28PM
+1,521,LNC,Rafael,Alvarado,alvarado.rafael@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:30PM
+1,245,LNC,Jaime,Alvarez,alvarez.jaime@dhl.com,LNC,Mar 31 2021  2:59PM,NULL,NULL,Apr 14 2021 10:27PM
+1,23,LNC,Amit,Mahabir,amit.mahabir@dhl.com,LNC,Mar 31 2021 10:43PM,NULL,NULL,Apr 14 2021 10:25PM
+1,24,LNC,Amol,"Bhagat ",amol.bhagat@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:25PM
+1,25,LNC,Amy,Jones,amy.jones2@dhl.com,LNC,Mar 24 2021  2:49PM,NULL,NULL,Apr 14 2021 10:25PM
+1,26,LNC,Ana,Roa,ana.roa@dhl.com,LNC,Mar 14 2021  5:21PM,NULL,NULL,Apr 14 2021 10:25PM
+1,27,LNC,Andre,Edwards,andre.edwards@dhl.com,LNC,Mar 22 2021  4:01PM,NULL,NULL,Apr 14 2021 10:25PM
+1,28,LNC,Andres,Barajas,andres.barajas@dhl.com,LNC,Mar 12 2021  4:43PM,NULL,NULL,Apr 14 2021 10:25PM
+1,29,LNC,Andrew,Hall,andrew.hall@dhl.com,LNC,Jan  5 2021  4:16PM,NULL,NULL,Apr 14 2021 10:25PM
+1,30,LNC,Andrew,Herrera,andrew.herrera@dhl.com,LNC,Mar 27 2021  8:24AM,NULL,NULL,Apr 14 2021 10:25PM
+1,34,LNC,Angel,Osorio,angel.osorio@dhl.com,LNC,Mar 18 2021  9:30PM,NULL,NULL,Apr 14 2021 10:25PM
+1,35,LNC,Angel,Palencia,angel.palencia@dhl.com,LNC,Jan  6 2021  4:16PM,NULL,NULL,Apr 14 2021 10:25PM
+1,38,LNC,Aniello,Desantis,aniello.desantis@dhl.com,LNC,Mar 31 2021  7:05PM,NULL,NULL,Apr 14 2021 10:25PM
+1,39,LNC,Anita,Bouer-Myers,anita.bouer-myers@dhl.com,LNC,Mar 26 2021  9:17PM,NULL,NULL,Apr 14 2021 10:25PM
+1,42,LNC,Anthony,Martin,anthony.martin@dhl.com,LNC,Jan 27 2021  3:09PM,NULL,NULL,Apr 14 2021 10:25PM
+1,44,LNC,Anthony,Saine,anthony.saine@dhl.com,LNC,Feb 13 2021  8:20PM,NULL,NULL,Apr 14 2021 10:25PM
+1,45,LNC,Antoni,Kowalski,antoni.kowalski@dhl.com,LNC,Jan 29 2021  9:44PM,NULL,NULL,Apr 14 2021 10:25PM
+1,46,LNC,Antonio,Ayala,antonio.ayala@dhl.com,LNC,Mar 15 2021  8:26PM,NULL,NULL,Apr 14 2021 10:25PM
+1,47,LNC,Antonio,Barragon,antonio.barragon@dhl.com,LNC,Mar 31 2021 12:56AM,NULL,NULL,Apr 14 2021 10:25PM
+1,48,LNC,Antonio,Godoy,antonio.godoy@dhl.com,LNC,Jan  6 2021  4:16PM,NULL,NULL,Apr 14 2021 10:25PM
+1,49,LNC,Antonio,Sandoval,antonio.sandoval@dhl.com,LNC,Jan  6 2021  4:16PM,NULL,NULL,Apr 14 2021 10:25PM
+1,50,LNC,Antonio,Serna,antonio.serna@dhl.com,LNC,Jan 29 2021  9:44PM,NULL,NULL,Apr 14 2021 10:25PM
+1,51,LNC,Antonio,Suero,antonio.suero@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:25PM
+1,52,LNC,Aokuso,Lalau,aokuso.lalau@dhl.com,LNC,Mar 28 2021  3:26AM,NULL,NULL,Apr 14 2021 10:25PM
+1,53,LNC,Arturo,Alfaro,arturo.alfaro@dhl.com,LNC,Mar 28 2021  1:05AM,NULL,NULL,Apr 14 2021 10:25PM
+1,54,LNC,Ashley,Orasi,ashley.orasi@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:25PM
+1,55,LNC,Asima,Sadikovic,asima.sadikovic@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:25PM
+1,104,LNC,Christopher,Asta,asta.christopher@dhl.com,LNC,Mar 26 2021  2:14AM,NULL,NULL,Apr 14 2021 10:26PM
+1,148,LNC,DGF ATL,DISPATCH,atl.dispatch@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:26PM
+1,463,LNC,Misael,Avila,avila.misael@dhl.com,LNC,Mar 31 2021 10:27PM,NULL,NULL,Apr 14 2021 10:29PM
+1,60,LNC,Bart,Leone,b.leone@dhl.com,LNC,Feb 19 2021  5:15PM,NULL,NULL,Apr 14 2021 10:25PM
+1,56,LNC,Bahareh,Ramezani,bahareh.ramezani@dhl.com,LNC,Jan  2 2021  8:40PM,NULL,NULL,Apr 14 2021 10:25PM
+1,57,LNC,Barb,Horton,barb.horton@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:25PM
+1,58,LNC,Barbara,Horton,barbara.horton@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:25PM
+2,25,ccs,Barbara,Horton,barbara.horton@dhl.com,ccs,NULL,NULL,NULL,Apr 14 2021 10:10PM
+1,59,LNC,Barbara,Williams,barbara.williams@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:25PM
+1,585,LNC,Salih,Becirovic,becirovic.salih@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:30PM
+1,592,LNC,Sedin,Bekric,bekric.sedin@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:30PM
+1,177,LNC,Eric,Benitez Escobar,benitez.eric@dhl.com,LNC,Mar 28 2021  3:52PM,NULL,NULL,Apr 14 2021 10:26PM
+1,61,LNC,Benjamin,Krol,benjamin.krol@dhl.com,LNC,Jan 13 2021  3:49AM,NULL,NULL,Apr 14 2021 10:25PM
+1,64,LNC,Bernard,Passananti,bernard.passananti@dhl.com,LNC,Mar 28 2021  2:33PM,NULL,NULL,Apr 14 2021 10:25PM
+1,65,LNC,Bibi,Subhan,bibi.subhan@dhl.com,LNC,Mar 31 2021  8:37PM,NULL,NULL,Apr 14 2021 10:25PM
+1,66,LNC,Blanca,Rodas,blanca.rodas@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:25PM
+1,113,LNC,Christrey,Blanco,blanco.christrey@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:26PM
+1,483,LNC,Norman,Blanco,blanco.norman@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:29PM
+1,68,LNC,Bob,Bapst,bob.bapst@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:25PM
+1,69,LNC,Bobby,Goins,bobby.goins@dhl.com,LNC,Mar  7 2021  1:14AM,NULL,NULL,Apr 14 2021 10:25PM
+1,70,LNC,Bobby,Newman,bobby.newman@dhl.com,LNC,Mar 31 2021  9:40PM,NULL,NULL,Apr 14 2021 10:25PM
+1,71,LNC,Bonnie,Garrod,bonnie.garrod@dhl.com,LNC,NULL,NULL,NULL,Apr 14 2021 10:25PM
+1,72,LNC,Boyd,Gumbs,boyd.gumbs@dhl.com,LNC,Mar 24 2021 11:01PM,NULL,NULL,Apr 14 2021 10:25PM
+1,74,LNC,Brendt,Galloway,brendt.galloway@dhl.com,LNC,Mar 31 2021  9:16PM,NULL,NULL,Apr 14 2021 10:25PM
+1,75,LNC,Brian,Perez,brian.perez2@dhl.com,LNC,Mar 14 2021  5:21PM,NULL,NULL,Apr 14 2021 10:25PM
+1,76,LNC,Brian,Uribe,brian.uribe@dhl.com,LNC,Mar 19 2021  7:17PM,NULL,NULL,Apr 14 2021 10:25PM
+1,77,LNC,Bridgett,Williams,bridgett.williams@dhl.com,LNC,Mar 31 2021  9:45PM,NULL,NULL,Apr 14 2021 10:25PM
+1,429,LNC,Mark,Bruso,bruso.mark@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:29PM
+1,78,LNC,Bryan,Pope,bryan.pope@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:25PM
+1,79,LNC,Bryant,Westerfield,bryant.westerfield@dhl.com,LNC,Mar 18 2021  3:34PM,NULL,NULL,Apr 14 2021 10:25PM
+1,402,LNC,Lorenzo,Burke,burke.lorenzo@dhl.com,LNC,Mar 27 2021  5:42PM,NULL,NULL,Apr 14 2021 10:28PM
+1,642,LNC,Tremont,Burns,burns.tremont@dhl.com,LNC,Mar 27 2021  3:35PM,NULL,NULL,Apr 14 2021 10:31PM
+1,80,LNC,Butch,Barba,butch.barba@dhl.com,LNC,Jan  6 2021  4:16PM,NULL,NULL,Apr 14 2021 10:25PM
+1,81,LNC,Calvin,Lindsey,calvin.lindsey@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:25PM
+1,82,LNC,Calvin,Slade,calvin.slade2@dhl.com,LNC,Mar 29 2021 10:43PM,NULL,NULL,Apr 14 2021 10:25PM
+1,319,LNC,Jose,Canales,canales.jose@dhl.com,LNC,Mar 31 2021 10:33PM,NULL,NULL,Apr 14 2021 10:28PM
+1,529,LNC,Raul,Cano,cano.raul@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:30PM
+1,83,LNC,Carl,Eads,carl.eads@dhl.com,LNC,Mar 31 2021  9:08PM,NULL,NULL,Apr 14 2021 10:25PM
+1,84,LNC,Carl,Morris,carl.morris@dhl.com,LNC,Feb  5 2021  3:32AM,NULL,NULL,Apr 14 2021 10:25PM
+1,85,LNC,Carlos,Guevara,carlos.guevara@dhl.com,LNC,Apr  1 2021  9:55AM,NULL,NULL,Apr 14 2021 10:25PM
+1,86,LNC,Carlos,Hernandez,carlos.hernandez1@dhl.com,LNC,Mar 28 2021  6:36AM,NULL,NULL,Apr 14 2021 10:25PM
+1,92,LNC,Carlos J,Acosta,carlos.j.acosta@dhl.com,LNC,Mar 29 2021  6:54PM,NULL,NULL,Apr 14 2021 10:25PM
+1,87,LNC,Carlos,Murillo,carlos.murillo@dhl.com,LNC,Jan  6 2021  4:16PM,NULL,NULL,Apr 14 2021 10:25PM
+1,88,LNC,Carlos,Reyes,carlos.reyes@dhl.com,LNC,Jan 23 2021 11:53PM,NULL,NULL,Apr 14 2021 10:25PM
+1,89,LNC,Carlos,Saez,carlos.saez@dhl.com,LNC,Mar 18 2021  9:39PM,NULL,NULL,Apr 14 2021 10:25PM
+1,90,LNC,Carlos,Torres,Carlos.torres@dhl.com,LNC,Jan  6 2021  4:16PM,NULL,NULL,Apr 14 2021 10:25PM
+1,91,LNC,Carlos,Torres,carlos.torres3@dhl.com,LNC,NULL,NULL,NULL,Apr 14 2021 10:25PM
+1,93,LNC,Carlton,Ching,carlton.ching@dhl.com,LNC,Mar 31 2021 10:16PM,NULL,NULL,Apr 14 2021 10:26PM
+1,94,LNC,Carmen,Poole,carmen.poole@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:26PM
+1,133,LNC,Darrell,Carter,carter.darrell@dhl.com,LNC,Mar 27 2021  8:50PM,NULL,NULL,Apr 14 2021 10:26PM
+1,95,LNC,Cecil,Amos,cecil.amos@dhl.com,LNC,Mar 22 2021  4:01PM,NULL,NULL,Apr 14 2021 10:26PM
+1,96,LNC,Cecilia,Rodriguez,cecilia.rodriguez@dhl.com,LNC,Mar 30 2021  6:36PM,NULL,NULL,Apr 14 2021 10:26PM
+1,22,LNC,Amir,Ceric,ceric.amir@dhl.com,LNC,Mar 25 2021 11:19AM,NULL,NULL,Apr 14 2021 10:25PM
+1,97,LNC,Charles,Mcentire,charles.mcentire@dhl.com,LNC,Mar 31 2021  8:23PM,NULL,NULL,Apr 14 2021 10:26PM
+1,98,LNC,Charles,Noyes,charles.noyes@dhl.com,LNC,Mar 31 2021  7:14PM,NULL,NULL,Apr 14 2021 10:26PM
+1,99,LNC,Charles,Walters,charles.walters@dhl.com,LNC,Mar 23 2021 12:44AM,NULL,NULL,Apr 14 2021 10:26PM
+1,158,LNC,Edgar,Chiu,chiu.edgar@dhl.com,LNC,Mar 25 2021 10:23AM,NULL,NULL,Apr 14 2021 10:26PM
+1,610,LNC,Stanislaw,Chlebek,chlebek.stanislaw@dhl.com,LNC,Mar 31 2021  2:21AM,NULL,NULL,Apr 14 2021 10:30PM
+1,100,LNC,Chris,Angela,chris.angela@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:26PM
+1,102,LNC,Chris,Chicago,chris.chicago@dhl.com,LNC,Mar 17 2021  2:25PM,NULL,NULL,Apr 14 2021 10:26PM
+2,13,ccs,Chris,Chicago,chris.chicago@dhl.com,ccs,Apr  5 2021  1:59PM,NULL,NULL,Apr 14 2021 10:10PM
+1,111,LNC,Christopher,Tutek,chris.tutek@dhl.com,LNC,Apr  1 2021  7:24AM,NULL,NULL,Apr 14 2021 10:26PM
+1,101,LNC,Chris,Blades,christopher.blades@dhl.com,LNC,Mar 29 2021  9:18PM,NULL,NULL,Apr 14 2021 10:26PM
+1,105,LNC,Christopher,Donofrio,christopher.donofrio@dhl.com,LNC,Mar 26 2021  3:23PM,NULL,NULL,Apr 14 2021 10:26PM
+1,103,LNC,Chris,Forde,christopher.forde@dhl.com,LNC,Apr  1 2021  2:01AM,NULL,NULL,Apr 14 2021 10:26PM
+1,106,LNC,Christopher,Fowler,christopher.fowler@dhl.com,LNC,Feb 23 2021  2:16PM,NULL,NULL,Apr 14 2021 10:26PM
+1,108,LNC,Christopher,Lowenthal,christopher.lowenthal@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:26PM
+1,110,LNC,Christopher,Mira,christopher.mira@dhl.com,LNC,Mar 31 2021  3:52PM,NULL,NULL,Apr 14 2021 10:26PM
+1,112,LNC,Christos,Spirou,christos.spirou@dhl.com,LNC,Mar 30 2021  6:31PM,NULL,NULL,Apr 14 2021 10:26PM
+1,114,LNC,Chuck,Cox,chuck.cox@dhl.com,LNC,Feb 23 2021  2:16PM,NULL,NULL,Apr 14 2021 10:26PM
+1,3,ccs,Cindy,Dawes,cindy.dawes@dhl.com,ccs,Nov  3 2020  3:14PM,Mar  1 2021  9:04PM,NULL,Apr 14 2021 10:10PM
+1,115,LNC,Claudia,Martinez,claudia.martinez2@dhl.com,LNC,Mar 25 2021  9:30PM,NULL,NULL,Apr 14 2021 10:26PM
+1,573,LNC,Rogelio,Claveria,claveria.rogelio@dhl.com,LNC,Mar 30 2021 12:12AM,NULL,NULL,Apr 14 2021 10:30PM
+1,116,LNC,Clifford,Feury,clifford.feury@dhl.com,LNC,Mar 31 2021  6:52PM,NULL,NULL,Apr 14 2021 10:26PM
+1,493,LNC,Pablo,Colon Jr.,colonjr.pablo@dhl.com,LNC,Mar 27 2021  9:06PM,NULL,NULL,Apr 14 2021 10:29PM
+1,117,LNC,Corey,Brewer,corey.brewer@dhl.com,LNC,Mar 31 2021  6:55PM,NULL,NULL,Apr 14 2021 10:26PM
+1,118,LNC,Cosimo,Marzella,cosimo.marzella@dhl.com,LNC,Apr  1 2021  9:50AM,NULL,NULL,Apr 14 2021 10:26PM
+1,556,LNC,Robert,Cotto,cotto.robert@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:30PM
+1,581,LNC,Rumualdo,Covarrubias Herrera,covarrubias.rumualdo@dhl.com,LNC,Mar 30 2021  8:51PM,NULL,NULL,Apr 14 2021 10:30PM
+1,385,LNC,Kristopher,Cozzi,cozzi.kristopher@dhl.com,LNC,Mar 13 2021 11:23PM,NULL,NULL,Apr 14 2021 10:28PM
+1,120,LNC,Crispian,Mojica,crispian.mojica@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:26PM
+1,119,LNC,Cris,Palma,cristopher.palma@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:26PM
+1,121,LNC,Cynthia,Martinez,cynthia.martinez@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:26PM
+1,122,LNC,Dalva,Rinchiuso,dalva.rinchiuso@dhl.com,LNC,Mar 30 2021  1:27AM,NULL,NULL,Apr 14 2021 10:26PM
+2,20,ccs,Dalva,Rinchiuso,Dalva.Rinchiuso@dhl.com,ccs,Apr  2 2021  4:04PM,NULL,NULL,Apr 14 2021 10:10PM
+1,123,LNC,Damian,Francois,damian.francois@dhl.com,LNC,Mar 31 2021  8:02PM,NULL,NULL,Apr 14 2021 10:26PM
+1,124,LNC,Damian,Pillips,damian.pillips@dhl.com,LNC,Mar 19 2021  3:47PM,NULL,NULL,Apr 14 2021 10:26PM
+1,125,LNC,Damien,Pillips,damien.phillips@dhl.com,LNC,Mar 19 2021  8:08PM,NULL,NULL,Apr 14 2021 10:26PM
+1,126,LNC,Dan,Goldenberg,dan.goldenberg@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:26PM
+1,127,LNC,Dan,Molceanu,dan.molceanu@dhl.com,LNC,Apr  1 2021  9:36AM,NULL,NULL,Apr 14 2021 10:26PM
+1,128,LNC,Daniel,Godoy,daniel.godoy@dhl.com,LNC,Jan  6 2021  4:16PM,NULL,NULL,Apr 14 2021 10:26PM
+1,129,LNC,Daniel,Mika,daniel.mika@dhl.com,LNC,Jan 29 2021  9:44PM,NULL,NULL,Apr 14 2021 10:26PM
+1,130,LNC,Daniel,Ortega,daniel.ortega@dhl.com,LNC,Jan 10 2021 12:07AM,NULL,NULL,Apr 14 2021 10:26PM
+1,131,LNC,Danny,Bravo,danny.bravo@dhl.com,LNC,Mar 28 2021  8:35PM,NULL,NULL,Apr 14 2021 10:26PM
+1,232,LNC,Hui Hua,Cheah,daryl.cheah@dhl.com,LNC,Jan  6 2021  4:16PM,NULL,NULL,Apr 14 2021 10:27PM
+1,157,LNC,Dzevad,Dautovic,dautovic.dzevad@dhl.com,LNC,Mar  9 2021  1:17PM,NULL,NULL,Apr 14 2021 10:26PM
+1,134,LNC,David,Adamowicz,david.adamowicz@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:26PM
+1,135,LNC,David,Forlizzi,david.forlizzi1@dhl.com,LNC,Apr  1 2021  2:24AM,NULL,NULL,Apr 14 2021 10:26PM
+1,136,LNC,David,Orozco,david.orozco@dhl.com,LNC,Mar 30 2021  3:32PM,NULL,NULL,Apr 14 2021 10:26PM
+1,138,LNC,David,Waltton,david.waltton@dhl.com,LNC,Mar 31 2021  5:38PM,NULL,NULL,Apr 14 2021 10:26PM
+1,139,LNC,Dean,Martini,dean.martini@dhl.com,LNC,Apr  1 2021 12:33AM,NULL,NULL,Apr 14 2021 10:26PM
+1,140,LNC,DeAngelo,Murry,deangelo.murry@dhl.com,LNC,Feb 13 2021  8:20PM,NULL,NULL,Apr 14 2021 10:26PM
+1,141,LNC,"Deante ",Humphrey,deante.humphrey@dhl.com,LNC,Mar 22 2021  4:01PM,NULL,NULL,Apr 14 2021 10:26PM
+1,218,LNC,Guillermo,De Jesus,dejesus.guillermo@dhl.com,LNC,Mar 31 2021  4:12PM,NULL,NULL,Apr 14 2021 10:27PM
+1,142,LNC,Delia,Cunningham,deliaa.cunningham@dhl.com,LNC,Mar 31 2021 11:07PM,NULL,NULL,Apr 14 2021 10:26PM
+1,143,LNC,Denise,Johnson,denise.johnson@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:26PM
+1,144,LNC,Dennis,Cancino,dennis.cancino@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:26PM
+1,145,LNC,Dennis,Dunn,dennis.dunn@dhl.com,LNC,Mar 30 2021  9:52PM,NULL,NULL,Apr 14 2021 10:26PM
+1,146,LNC,Derwin,Furlow,derwin.furlow2@dhl.com,LNC,Mar 31 2021 10:28PM,NULL,NULL,Apr 14 2021 10:26PM
+1,147,LNC,Devyn,Cook,devyn.cook@dhl.com,LNC,Jan  2 2021  8:40PM,NULL,NULL,Apr 14 2021 10:26PM
+1,149,LNC,Diana,Guasca,diana.guasca@dhl.com,LNC,Mar 31 2021  3:13PM,NULL,NULL,Apr 14 2021 10:26PM
+1,444,LNC,Michael,Digiovanni,digiovanni.michael@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:29PM
+1,671,LNC,Zaheer,Ditta,ditta.zaheer@dhl.com,LNC,Mar 31 2021  5:36PM,NULL,NULL,Apr 14 2021 10:31PM
+1,257,LNC,Janusz,Dluzniewski,dluzniewski.janusz@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:27PM
+1,151,LNC,Donna,Scro,donna.scro@dhl.com,LNC,Mar 31 2021 11:29PM,NULL,NULL,Apr 14 2021 10:26PM
+1,152,LNC,Donna,Stevenson,donna.stevenson@dhl.com,LNC,Mar 31 2021 11:51PM,NULL,NULL,Apr 14 2021 10:26PM
+1,590,LNC,Sean,Donovan,donovan.sean@dhl.com,LNC,Feb 17 2021 12:41AM,NULL,NULL,Apr 14 2021 10:30PM
+1,153,LNC,Douglas,Salguero,douglas.salguero@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:26PM
+1,155,LNC,Dwayne,Bell,dwayne.bell@dhl.com,LNC,Mar 29 2021 10:17PM,NULL,NULL,Apr 14 2021 10:26PM
+1,156,LNC,Dzemaila,Halilovic,dzemaila.halilovic@dhl.com,LNC,Mar 31 2021  8:58PM,NULL,NULL,Apr 14 2021 10:26PM
+1,162,LNC,Edmund,Chu,e.chu2@dhl.com,LNC,Jan 28 2021  4:17PM,NULL,NULL,Apr 14 2021 10:26PM
+1,160,LNC,Edgar,Sanchez,edgar.sanchez@dhl.com,LNC,Mar 13 2021 10:21PM,NULL,NULL,Apr 14 2021 10:26PM
+1,161,LNC,Edgar,Santos,edgar.santos@dhl.com,LNC,Mar 25 2021  3:57AM,NULL,NULL,Apr 14 2021 10:26PM
+1,163,LNC,Edward,McCormick,edward.e.mccormick@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:26PM
+1,164,LNC,Edward,McCormick,edward.mccormick@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:26PM
+1,166,LNC,Efrain,Fuentes,efrain.fuentes@dhl.com,LNC,Mar 31 2021  9:29PM,NULL,NULL,Apr 14 2021 10:26PM
+1,196,LNC,Frank,Held,efrank.held@dhl.com,LNC,Feb 24 2021  3:31PM,NULL,NULL,Apr 14 2021 10:26PM
+1,167,LNC,Elbert,Cabrejo,elbert.cabrejo@dhl.com,LNC,Jan  6 2021  4:16PM,NULL,NULL,Apr 14 2021 10:26PM
+1,168,LNC,Elise,Sanchez,elise.sanchez@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:26PM
+2,26,ccs,Elise,Sanchez,elise.sanchez@dhl.com,ccs,NULL,NULL,NULL,Apr 14 2021 10:10PM
+1,169,LNC,Elizabeth,Rippes,elizabeth.rippes@dhl.com,LNC,Apr  1 2021 12:04AM,NULL,NULL,Apr 14 2021 10:26PM
+1,387,LNC,Lamont,Ellis,ellis.lamont@dhl.com,LNC,Mar 29 2021  9:18PM,NULL,NULL,Apr 14 2021 10:28PM
+1,170,LNC,Elver,Mesino,elver.mesino@dhl.com,LNC,Mar 31 2021 10:32PM,NULL,NULL,Apr 14 2021 10:26PM
+1,171,LNC,Elvin,Morales,elvin.morales@dhl.com,LNC,Mar 31 2021  4:09PM,NULL,NULL,Apr 14 2021 10:26PM
+1,173,LNC,Emiliano,Rios,emiliano.rios@dhl.com,LNC,Jan  6 2021  4:16PM,NULL,NULL,Apr 14 2021 10:26PM
+1,174,LNC,Emilio,Millan,emilio.millan@dhl.com,LNC,Mar 31 2021  7:15PM,NULL,NULL,Apr 14 2021 10:26PM
+1,175,LNC,Enrique,Gomez,enrique.gomez@dhl.com,LNC,Jan 29 2021  9:44PM,NULL,NULL,Apr 14 2021 10:26PM
+1,178,LNC,Eric,Everett,eric.everett@dhl.com,LNC,Mar 25 2021  5:43PM,NULL,NULL,Apr 14 2021 10:26PM
+1,179,LNC,Eric,Muniz,eric.muniz@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:26PM
+1,180,LNC,Eric,Padilla,eric.padilla@dhl.com,LNC,Mar 31 2021  8:47PM,NULL,NULL,Apr 14 2021 10:26PM
+1,181,LNC,Eric,Penn,eric.penn@dhl.com,LNC,Mar 29 2021  5:44PM,NULL,NULL,Apr 14 2021 10:26PM
+1,183,LNC,Esteban,Soto,esteban.soto@dhl.com,LNC,Mar 30 2021  4:42PM,NULL,NULL,Apr 14 2021 10:26PM
+1,184,LNC,Etienne,Gonzalez,etienne.gonzalez@dhl.com,LNC,Mar 29 2021  4:10PM,NULL,NULL,Apr 14 2021 10:26PM
+1,185,LNC,Eugene,Davenport,eugene.davenport@dhl.com,LNC,Mar 22 2021  4:01PM,NULL,NULL,Apr 14 2021 10:26PM
+1,188,LNC,Evelia,Ramirez,evelia.ramirez@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:26PM
+1,189,LNC,Evelyn,Lopez,evelyn.lopez@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:26PM
+1,197,LNC,Frank,Liatto,f.liatto@dhl.com,LNC,Mar 31 2021  4:34PM,NULL,NULL,Apr 14 2021 10:26PM
+1,190,LNC,Fabienne,Pedersen,fabienne.pedersen@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:26PM
+1,458,LNC,Mike,Faulkner,faulkner.mike@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:29PM
+1,191,LNC,Felipe,Aviles,felipe.aviles@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:26PM
+1,575,LNC,Romeo,Fernandez,fernandez.romeo@dhl.com,LNC,Mar 31 2021  3:09PM,NULL,NULL,Apr 14 2021 10:30PM
+1,4,ccs,filomena,Ross,"filomena.ross@dhl.com  ",ccs,NULL,Mar 16 2021 12:26PM,NULL,Apr 14 2021 10:10PM
+1,192,LNC,Fran,Minei,fran.minei@dhl.com,LNC,Apr  1 2021 12:09AM,NULL,NULL,Apr 14 2021 10:26PM
+1,193,LNC,Francis,Galiano,francis.galiano@dhl.com,LNC,Jan 28 2021  4:18PM,NULL,NULL,Apr 14 2021 10:26PM
+1,195,LNC,Frank,Burton,frank.burton@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:26PM
+1,198,LNC,Frank,Schipani,frank.schipani@dhl.com,LNC,Jan 28 2021  4:18PM,NULL,NULL,Apr 14 2021 10:26PM
+1,662,LNC,Willie,Franklin,franklin.willie@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:31PM
+1,209,LNC,Gerard,Affissio,g.affissio@dhl.com,LNC,Jan 28 2021  4:18PM,NULL,NULL,Apr 14 2021 10:27PM
+1,206,LNC,Gavin,DeSouza,g.desouza@dhl.com,LNC,Apr  1 2021  2:24AM,NULL,NULL,Apr 14 2021 10:27PM
+1,214,LNC,Gladstone,Dey,g.dey@dhl.com,LNC,Mar 17 2021  6:29PM,NULL,NULL,Apr 14 2021 10:27PM
+1,201,LNC,Gabriel,Meza,gabriel.meza1@dhl.com,LNC,Mar  3 2021  9:26PM,NULL,NULL,Apr 14 2021 10:27PM
+1,202,LNC,Gabriel,Moshi,gabriel.moshi@dhl.com,LNC,Feb 13 2021  8:20PM,NULL,NULL,Apr 14 2021 10:27PM
+1,203,LNC,Gaetano,Giammarino,gaetano.giammarino@dhl.com,LNC,Mar 31 2021 11:00PM,NULL,NULL,Apr 14 2021 10:27PM
+1,379,LNC,Kevin,Galardi,galardi.kevin@dhl.com,LNC,Feb 20 2021  5:26PM,NULL,NULL,Apr 14 2021 10:28PM
+1,276,LNC,Jeremy,Gandsey,gandsey.jeremy@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:27PM
+1,207,LNC,George,Gandsey IV,gandseyiv.george@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:27PM
+1,182,LNC,Ernesto,Garcia,garcia.ernesto@dhl.com,LNC,Mar 31 2021  6:02PM,NULL,NULL,Apr 14 2021 10:26PM
+1,204,LNC,Gary,James,gary.james@dhl.com,LNC,Apr  1 2021 12:11AM,NULL,NULL,Apr 14 2021 10:27PM
+1,205,LNC,Gary,Vondrasek,gary.vondrasek@dhl.com,LNC,Feb 13 2021  8:20PM,NULL,NULL,Apr 14 2021 10:27PM
+1,150,LNC,Dominick,Garza,garza.dominick@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:26PM
+1,186,LNC,Eugene,Dugan,gene.dugan@dhl.com,LNC,Mar 31 2021 10:57PM,NULL,NULL,Apr 14 2021 10:26PM
+1,208,LNC,George,Lau,george.lau@dhl.com,LNC,Mar  8 2021 12:26PM,NULL,NULL,Apr 14 2021 10:27PM
+1,210,LNC,Gerardo,Gonzalez,gerardo.gonzalez1@dhl.com,LNC,Mar 31 2021  8:08PM,NULL,NULL,Apr 14 2021 10:27PM
+1,212,LNC,German,Morales,german.morales1@dhl.com,LNC,Jan 15 2021  4:37PM,NULL,NULL,Apr 14 2021 10:27PM
+1,107,LNC,Christopher,Geschke,geschke.christopher@dhl.com,LNC,Mar 29 2021  4:36PM,NULL,NULL,Apr 14 2021 10:26PM
+1,213,LNC,Gilbert,Wun,gilbert.wun@dhl.com,LNC,Mar 26 2021  8:45PM,NULL,NULL,Apr 14 2021 10:27PM
+1,283,LNC,Jesus,Gomez,gomez.jesus@dhl.com,LNC,Mar 29 2021  1:39PM,NULL,NULL,Apr 14 2021 10:27PM
+1,320,LNC,Jose,Gonzalez,gonzalez.jose@dhl.com,LNC,Mar 31 2021  4:12PM,NULL,NULL,Apr 14 2021 10:28PM
+1,526,LNC,Ramiro,Gonzalez,gonzalez.ramiro@dhl.com,LNC,Mar 31 2021  2:20PM,NULL,NULL,Apr 14 2021 10:30PM
+1,41,LNC,Anthony,Gorka,gorka.anthony@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:25PM
+1,215,LNC,Gowtham,Reddy,gowtham.reddy@dhl.com,LNC,NULL,NULL,NULL,Apr 14 2021 10:27PM
+1,217,LNC,Greivin,Ramirez,greivin.ramirez@dhl.com,LNC,Dec 10 2020  5:11PM,NULL,NULL,Apr 14 2021 10:27PM
+1,220,LNC,Hajrudin,Halilovic,halilovic.hajrudin@dhl.com,LNC,Mar 31 2021  3:44PM,NULL,NULL,Apr 14 2021 10:27PM
+1,480,LNC,Nisvet,Handzic,handzic.nisvet@dhl.com,LNC,Mar 10 2021  8:14PM,NULL,NULL,Apr 14 2021 10:29PM
+1,222,LNC,Heather,Hallowell,heather.hallowell@dhl.com,LNC,Mar 31 2021  9:59PM,NULL,NULL,Apr 14 2021 10:27PM
+1,223,LNC,Hector,Aguila,hector.aguila@dhl.com,LNC,Mar 14 2021  5:21PM,NULL,NULL,Apr 14 2021 10:27PM
+1,224,LNC,Hector,Espinoza,hector.espinoza@dhl.com,LNC,Mar 31 2021 10:46PM,NULL,NULL,Apr 14 2021 10:27PM
+1,557,LNC,Robert,Hedberg,hedberg.robert@dhl.com,LNC,Mar  9 2021  4:02PM,NULL,NULL,Apr 14 2021 10:30PM
+1,225,LNC,Henry,Major,henry.major@dhl.com,LNC,Mar 31 2021 10:59PM,NULL,NULL,Apr 14 2021 10:27PM
+1,558,LNC,Robert,Henze,henze.robert@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:30PM
+1,226,LNC,Heriberto,Barrera,heriberto.barrera@dhl.com,LNC,Mar 26 2021  3:24AM,NULL,NULL,Apr 14 2021 10:27PM
+1,227,LNC,Heriberto,Huerta,heriberto.huerta1@dhl.com,LNC,Mar 28 2021 10:42PM,NULL,NULL,Apr 14 2021 10:27PM
+1,228,LNC,Hermillo,Soto,hermillo.soto@dhl.com,LNC,Mar 31 2021  6:58PM,NULL,NULL,Apr 14 2021 10:27PM
+1,350,LNC,Juan,Hernandez De La Torre,hernandez.juan@dhl.com,LNC,Mar 31 2021  6:11PM,NULL,NULL,Apr 14 2021 10:28PM
+1,349,LNC,Juan,Hernandez,hernandez.juan1@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:28PM
+1,419,LNC,Marcos,Herrera,herrera.marcos@dhl.com,LNC,Mar 30 2021 10:57PM,NULL,NULL,Apr 14 2021 10:29PM
+1,559,LNC,Robert,Hicks,hicks.robert@dhl.com,LNC,Mar 27 2021  4:36PM,NULL,NULL,Apr 14 2021 10:30PM
+1,231,LNC,Howard,Hill,hill.howard@dhl.com,LNC,Mar  8 2021  4:09PM,NULL,NULL,Apr 14 2021 10:27PM
+1,446,LNC,Michael,Hillman,hillman.michael@dhl.com,LNC,Mar 20 2021  6:28PM,NULL,NULL,Apr 14 2021 10:29PM
+1,249,LNC,James,Hines,hines.james@dhl.com,LNC,Mar  8 2021  7:30PM,NULL,NULL,Apr 14 2021 10:27PM
+1,73,LNC,Boyd,Hinkemeyer,hinkemeyer.boyd@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:25PM
+1,229,LNC,Honore,Yoyo,honore.yoyo@dhl.com,LNC,Mar 24 2021  9:29PM,NULL,NULL,Apr 14 2021 10:27PM
+1,230,LNC,Horacio,Covarrubias,horacio.covarrubias@dhl.com,LNC,Feb 13 2021  8:20PM,NULL,NULL,Apr 14 2021 10:27PM
+1,453,LNC,Midhad,Husic,husic.midhad@dhl.com,LNC,Mar 31 2021  3:22PM,NULL,NULL,Apr 14 2021 10:29PM
+1,233,LNC,Iglaya,Delrosario,iglaya.delrosario@dhl.com,LNC,Mar 28 2021  3:47PM,NULL,NULL,Apr 14 2021 10:27PM
+1,234,LNC,Ignacio,Garcia,ignacio.garcia@dhl.com,LNC,Jan  6 2021  4:16PM,NULL,NULL,Apr 14 2021 10:27PM
+1,236,LNC,Imer,Pineda,imer.pineda@dhl.com,LNC,Jan  6 2021  4:16PM,NULL,NULL,Apr 14 2021 10:27PM
+1,237,LNC,Indira,Martinez,indira.martinez@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:27PM
+1,238,LNC,Ira,Miller,ira.miller@dhl.com,LNC,Mar 12 2021  8:27AM,NULL,NULL,Apr 14 2021 10:27PM
+1,239,LNC,Irving,Porter,irving.porter@dhl.com,LNC,Mar 23 2021  8:07PM,NULL,NULL,Apr 14 2021 10:27PM
+1,240,LNC,Isaiah,McClenton,isaiah.mcclenton@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:27PM
+1,241,LNC,Ivan,Green,ivan.green@dhl.com,LNC,Mar 22 2021  4:01PM,NULL,NULL,Apr 14 2021 10:27PM
+1,242,LNC,Ivan,Martinez,ivan.martinez@dhl.com,LNC,Jan  6 2021  4:16PM,NULL,NULL,Apr 14 2021 10:27PM
+1,270,LNC,Jay,Lee,j.lee3@dhl.com,LNC,Jan 28 2021  4:19PM,NULL,NULL,Apr 14 2021 10:27PM
+1,250,LNC,James,Marin,j.marin@dhl.com,LNC,Jan 28 2021  4:19PM,NULL,NULL,Apr 14 2021 10:27PM
+1,337,LNC,Joseph,Masone,j.masone@dhl.com,LNC,Feb  7 2021  1:28AM,NULL,NULL,Apr 14 2021 10:28PM
+1,252,LNC,James,Molfetta,j.molfetta@dhl.com,LNC,Feb 20 2021  8:01PM,NULL,NULL,Apr 14 2021 10:27PM
+1,339,LNC,Joseph,Neeson,j.neeson@dhl.com,LNC,Mar 31 2021  8:00PM,NULL,NULL,Apr 14 2021 10:28PM
+1,308,LNC,John,Oulds,j.oulds@dhl.com,LNC,Feb 12 2021  6:19PM,NULL,NULL,Apr 14 2021 10:28PM
+1,271,LNC,Jean,Thomas,j.thomas3@dhl.com,LNC,Jan 28 2021  4:20PM,NULL,NULL,Apr 14 2021 10:27PM
+1,2,ccs,Jacek,Kasprzyk,jacek.kasprzyk@dhl.com,ccs,NULL,Mar 20 2021  5:45PM,NULL,Apr 14 2021 10:10PM
+1,243,LNC,Jackie,Garcia,jackie.garcia@dhl.com,LNC,Mar 31 2021  2:49PM,NULL,NULL,Apr 14 2021 10:27PM
+1,659,LNC,William,Jackson,jackson.william@dhl.com,LNC,Feb  6 2021  8:43AM,NULL,NULL,Apr 14 2021 10:31PM
+1,244,LNC,Jacob,Scaramuzzi,jacob.scaramuzzi@dhl.com,LNC,Mar 31 2021  8:15PM,NULL,NULL,Apr 14 2021 10:27PM
+1,246,LNC,Jaime,Gracia,jaime.gracia@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:27PM
+1,247,LNC,Jamarcus,Johnson,jamarcus.johnson@dhl.com,LNC,Feb 13 2021  8:20PM,NULL,NULL,Apr 14 2021 10:27PM
+1,248,LNC,James,Davis,james.davis5@dhl.com,LNC,Mar 28 2021 11:53PM,NULL,NULL,Apr 14 2021 10:27PM
+1,251,LNC,James,McNair,james.mcnair@dhl.com,LNC,Mar 31 2021  4:33AM,NULL,NULL,Apr 14 2021 10:27PM
+1,253,LNC,James,Palumbo,james.palumbo@dhl.com,LNC,Jan 29 2021  9:44PM,NULL,NULL,Apr 14 2021 10:27PM
+1,22,ccs,Janet,Williams,janet.williams@dhl.com,ccs,Mar 31 2021  4:09PM,NULL,NULL,Apr 14 2021 10:10PM
+1,256,LNC,Jan Martin,Afuang,janmartin.afuang@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:27PM
+1,259,LNC,Jason,Dutton,jason.dutton@dhl.com,LNC,Mar 31 2021 10:02PM,NULL,NULL,Apr 14 2021 10:27PM
+1,260,LNC,Jason,Leavitt,jason.leavitt@dhl.com,LNC,Mar 15 2021  3:19PM,NULL,NULL,Apr 14 2021 10:27PM
+1,261,LNC,Javan,Givan,javan.givan@dhl.com,LNC,Mar 25 2021  5:51PM,NULL,NULL,Apr 14 2021 10:27PM
+1,262,LNC,Javier,Aleman,javier.aleman@dhl.com,LNC,Mar 18 2021  9:40PM,NULL,NULL,Apr 14 2021 10:27PM
+1,263,LNC,Javier,Covarrubias,javier.covarrubias@dhl.com,LNC,Feb 13 2021  8:20PM,NULL,NULL,Apr 14 2021 10:27PM
+1,264,LNC,Javier,Morales,javier.morales@dhl.com,LNC,Apr  1 2021  1:24AM,NULL,NULL,Apr 14 2021 10:27PM
+1,267,LNC,Javier,Torres,javier.torres2@dhl.com,LNC,Mar 31 2021 10:16PM,NULL,NULL,Apr 14 2021 10:27PM
+1,268,LNC,Javier,Vazquez,javier.vazquez@dhl.com,LNC,Jan  6 2021  4:16PM,NULL,NULL,Apr 14 2021 10:27PM
+1,269,LNC,Jay,Davis,jay.davis@dhl.com,LNC,Mar 22 2021  4:01PM,NULL,NULL,Apr 14 2021 10:27PM
+1,272,LNC,Jeanette,Gamble,jeanette.gamble@dhl.com,LNC,Mar 19 2021  8:07PM,NULL,NULL,Apr 14 2021 10:27PM
+1,274,LNC,Jeffrey,Hipchen,jeffrey.hipchen@dhl.com,LNC,Feb 20 2021 11:19PM,NULL,NULL,Apr 14 2021 10:27PM
+1,273,LNC,Jeff,Oathes,jeffrey.oathes@dhl.com,LNC,Mar 31 2021  7:43PM,NULL,NULL,Apr 14 2021 10:27PM
+1,275,LNC,Jenny,Casey,jenny.casey@dhl.com,LNC,Mar 16 2021  9:21PM,NULL,NULL,Apr 14 2021 10:27PM
+1,277,LNC,Jerry,Dowling,jerry.dowling@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:27PM
+1,15,ccs,"JERRY ",DRAKE,jerry.drake@dhl.com,ccs,NULL,NULL,NULL,Apr 14 2021 10:10PM
+1,278,LNC,Jerry,Robinson,jerry.robinson3@dhl.com,LNC,Mar 19 2021  8:13PM,NULL,NULL,Apr 14 2021 10:27PM
+1,279,LNC,Jerry,Rodriguez,jerry.rodriguez@dhl.com,LNC,Apr  1 2021  1:55AM,NULL,NULL,Apr 14 2021 10:27PM
+1,280,LNC,Jesse,Mobley,jesse.mobley@dhl.com,LNC,Apr  1 2021  5:17AM,NULL,NULL,Apr 14 2021 10:27PM
+1,281,LNC,Jesse,Wang,jesse.wang@dhl.com,LNC,Mar 12 2021  9:36PM,NULL,NULL,Apr 14 2021 10:27PM
+1,282,LNC,Jesus,Delacruz,jesus.delacruz@dhl.com,LNC,Feb  6 2021 11:49PM,NULL,NULL,Apr 14 2021 10:27PM
+1,284,LNC,Jesus,Hernandez,jesus.hernandez@dhl.com,LNC,Feb 11 2021  1:52AM,NULL,NULL,Apr 14 2021 10:27PM
+1,285,LNC,Jesus,Martinez,jesus.martinez1@dhl.com,LNC,Mar 31 2021 11:15PM,NULL,NULL,Apr 14 2021 10:27PM
+1,286,LNC,Jesus,Montano,jesus.montano@dhl.com,LNC,Mar 31 2021  8:00PM,NULL,NULL,Apr 14 2021 10:27PM
+1,287,LNC,Jesus,Rebolledo,jesus.rebolledo@dhl.com,LNC,Apr  1 2021 10:08AM,NULL,NULL,Apr 14 2021 10:27PM
+1,288,LNC,Jesus,Rodriquez,jesus.rodriguez4@dhl.com,LNC,Jan  6 2021  4:16PM,NULL,NULL,Apr 14 2021 10:27PM
+1,289,LNC,Jim,Freitas,jim.freitas@dhl.com,LNC,Apr  1 2021 12:18AM,NULL,NULL,Apr 14 2021 10:27PM
+1,394,LNC,Leonel,Jimenez,jimenez.leonel@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:28PM
+1,290,LNC,Jimmy,Houston,jimmy.houston@dhl.com,LNC,Mar 13 2021  8:52PM,NULL,NULL,Apr 14 2021 10:27PM
+1,291,LNC,Jimmy,Morales,jimmy.morales@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:27PM
+1,296,LNC,Joel,Delacruz,joel.delacruz@dhl.com,LNC,Feb 16 2021  5:41PM,NULL,NULL,Apr 14 2021 10:27PM
+1,297,LNC,John,Baitz,john.baitz@dhl.com,LNC,Mar 29 2021  7:31PM,NULL,NULL,Apr 14 2021 10:27PM
+1,298,LNC,John,Baitz,john.baitzIAD@dhl.com,LNC,Jan 27 2021  6:57PM,NULL,NULL,Apr 14 2021 10:27PM
+1,299,LNC,John,Baitz,john.baitzPDX@dhl.com,LNC,Nov 13 2020  3:19PM,NULL,NULL,Apr 14 2021 10:27PM
+1,300,LNC,John,Baitz,john.baitzSEA@dhl.com,LNC,Apr  6 2020  2:03PM,NULL,NULL,Apr 14 2021 10:27PM
+1,301,LNC,John,Baitz,john.baitzSJU@dhl.com,LNC,Aug 25 2020 10:59AM,NULL,NULL,Apr 14 2021 10:27PM
+1,302,LNC,John,Bueno,john.bueno@dhl.com,LNC,Mar 31 2021  8:31PM,NULL,NULL,Apr 14 2021 10:27PM
+1,303,LNC,John,Drago,john.drago@dhl.com,LNC,Feb 18 2021  9:27PM,NULL,NULL,Apr 14 2021 10:27PM
+1,304,LNC,John,Gallo,john.gallo@dhl.com,LNC,Jan 29 2021  9:44PM,NULL,NULL,Apr 14 2021 10:27PM
+1,305,LNC,John,Lampasona,john.lampasona@dhl.com,LNC,Mar 27 2021 11:46PM,NULL,NULL,Apr 14 2021 10:27PM
+1,306,LNC,John,Loughran,john.loughran@dhl.com,LNC,Jan 29 2021  9:44PM,NULL,NULL,Apr 14 2021 10:28PM
+1,307,LNC,John,McKenna,john.mckenna@dhl.com,LNC,Feb 13 2021  8:20PM,NULL,NULL,Apr 14 2021 10:28PM
+1,310,LNC,John,Wailly,john.wailly@dhl.com,LNC,Jan 29 2021  9:44PM,NULL,NULL,Apr 14 2021 10:28PM
+1,311,LNC,John,Wiermanski,john.wiermanski@dhl.com,LNC,Mar 29 2021  5:35PM,NULL,NULL,Apr 14 2021 10:28PM
+1,312,LNC,Johnathan,Heil,johnathan.heil@dhl.com,LNC,Mar 22 2021  4:01PM,NULL,NULL,Apr 14 2021 10:28PM
+1,313,LNC,Johnny,Alvarez,johnny.alvarez@dhl.com,LNC,Jan  6 2021  4:16PM,NULL,NULL,Apr 14 2021 10:28PM
+1,314,LNC,Johnny,Sagoes,johnny.sagoes@dhl.com,LNC,Mar 31 2021  8:34PM,NULL,NULL,Apr 14 2021 10:28PM
+1,315,LNC,Jonathan,Schulz,jonathan.schulz3@dhl.com,LNC,Mar 19 2021  3:40PM,NULL,NULL,Apr 14 2021 10:28PM
+1,338,LNC,Joseph,Moran,jorge.a.moran@dhl.com,LNC,Jan 28 2021  4:21PM,NULL,NULL,Apr 14 2021 10:28PM
+1,316,LNC,Jorge,Herrera,jorge.herrera2@dhl.com,LNC,Mar 31 2021  8:20PM,NULL,NULL,Apr 14 2021 10:28PM
+1,317,LNC,Jorge,Lecourtois,jorge.lecourtois2@dhl.com,LNC,Mar 31 2021  1:52PM,NULL,NULL,Apr 14 2021 10:28PM
+1,318,LNC,Jorge,Polledo,jorge.polledo2@dhl.com,LNC,Jan 28 2021  3:44PM,NULL,NULL,Apr 14 2021 10:28PM
+1,321,LNC,Jose,Grimaldo,jose.grimaldo@dhl.com,LNC,Mar 14 2021  2:13AM,NULL,NULL,Apr 14 2021 10:28PM
+1,322,LNC,Jose,Hernandez,jose.hernandez@dhl.com,LNC,Jan  6 2021  4:16PM,NULL,NULL,Apr 14 2021 10:28PM
+1,323,LNC,Jose,Leveroni,jose.leveroni@dhl.com,LNC,Feb 13 2021  8:20PM,NULL,NULL,Apr 14 2021 10:28PM
+1,324,LNC,Jose,Lopez,jose.lopez@dhl.com,LNC,Jan  6 2021  4:16PM,NULL,NULL,Apr 14 2021 10:28PM
+1,325,LNC,Jose,Martinez,jose.martinez@dhl.com,LNC,Jan  6 2021  4:16PM,NULL,NULL,Apr 14 2021 10:28PM
+1,326,LNC,Jose,Mendez,jose.mendez3@dhl.com,LNC,Mar 25 2021 10:22PM,NULL,NULL,Apr 14 2021 10:28PM
+1,327,LNC,Jose,Morales,jose.morales@dhl.com,LNC,Mar 31 2021 12:52AM,NULL,NULL,Apr 14 2021 10:28PM
+1,328,LNC,Jose,Mota,jose.mota@dhl.com,LNC,Jan  6 2021  4:16PM,NULL,NULL,Apr 14 2021 10:28PM
+1,329,LNC,Jose,Munoz,jose.munoz@dhl.com,LNC,Mar 17 2021 10:05PM,NULL,NULL,Apr 14 2021 10:28PM
+1,330,LNC,Jose,Negrete,jose.negrete@dhl.com,LNC,Feb 19 2021  8:56PM,NULL,NULL,Apr 14 2021 10:28PM
+1,331,LNC,Jose,Orozco,jose.orozco@dhl.com,LNC,Mar 27 2021  6:03PM,NULL,NULL,Apr 14 2021 10:28PM
+1,332,LNC,Jose,Rodriguez,jose.rodriguez@dhl.com,LNC,Mar 12 2021  1:55PM,NULL,NULL,Apr 14 2021 10:28PM
+1,333,LNC,Jose,Sanchez,jose.sanchez3@dhl.com,LNC,Mar 29 2021 10:04PM,NULL,NULL,Apr 14 2021 10:28PM
+1,334,LNC,Jose,Valdovinos,jose.valdovinos@dhl.com,LNC,Feb 28 2021  1:34AM,NULL,NULL,Apr 14 2021 10:28PM
+1,292,LNC,Joe,Gifford,joseph.gifford@dhl.com,LNC,Dec 23 2020 10:04PM,NULL,NULL,Apr 14 2021 10:27PM
+1,335,LNC,Joseph,Guzman,joseph.guzman@dhl.com,LNC,Jan  6 2021  4:16PM,NULL,NULL,Apr 14 2021 10:28PM
+1,336,LNC,Joseph,Jordan,joseph.jordan@dhl.com,LNC,Mar  7 2021 12:30AM,NULL,NULL,Apr 14 2021 10:28PM
+1,340,LNC,Joseph,Outar,joseph.outar@dhl.com,LNC,Mar 31 2021  8:40PM,NULL,NULL,Apr 14 2021 10:28PM
+1,341,LNC,Joseph,Reff,joseph.reff@dhl.com,LNC,Mar 31 2021 11:39PM,NULL,NULL,Apr 14 2021 10:28PM
+1,294,LNC,Joe,Sallee,joseph.sallee@dhl.com,LNC,Apr  1 2021  4:06AM,NULL,NULL,Apr 14 2021 10:27PM
+1,342,LNC,Joseph,Taylor,joseph.taylor1@dhl.com,LNC,Apr  1 2021  3:50AM,NULL,NULL,Apr 14 2021 10:28PM
+1,343,LNC,Josephine,Pedroza,josephine.pedroza@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:28PM
+1,344,LNC,Josh,Tindall,josh.tindall@dhl.com,LNC,Apr  1 2021  1:33AM,NULL,NULL,Apr 14 2021 10:28PM
+1,345,LNC,Joshua,Suvetor,joshua.suvetor@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:28PM
+1,346,LNC,Josue,Santos,josue.santos@dhl.com,LNC,Mar 30 2021  7:10PM,NULL,NULL,Apr 14 2021 10:28PM
+1,347,LNC,Jovany,Romero,jovany.romero@dhl.com,LNC,Mar 14 2021  5:18PM,NULL,NULL,Apr 14 2021 10:28PM
+1,348,LNC,Juan,Guardado,juan.guardado@dhl.com,LNC,Mar 31 2021 10:20PM,NULL,NULL,Apr 14 2021 10:28PM
+1,352,LNC,Juan,Loveras,juan.loveras@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:28PM
+1,353,LNC,Juan,Meza,juan.meza@dhl.com,LNC,Feb 13 2021  8:20PM,NULL,NULL,Apr 14 2021 10:28PM
+1,354,LNC,Juan,Meza Sr,juan.meza1@dhl.com,LNC,Feb 13 2021  8:20PM,NULL,NULL,Apr 14 2021 10:28PM
+1,355,LNC,Juan,Ordonez,juan.ordonez@dhl.com,LNC,Jan  6 2021  4:16PM,NULL,NULL,Apr 14 2021 10:28PM
+1,356,LNC,Juan,Prida,juan.prida@dhl.com,LNC,Mar 31 2021  4:51PM,NULL,NULL,Apr 14 2021 10:28PM
+1,357,LNC,Juan,Serrano,juan.serrano1@dhl.com,LNC,Mar 31 2021  9:54PM,NULL,NULL,Apr 14 2021 10:28PM
+1,358,LNC,Juan,Valbuena,juan.valbuena@dhl.com,LNC,Mar 17 2021 11:43AM,NULL,NULL,Apr 14 2021 10:28PM
+1,359,LNC,Juan,Velasquez,juan.velasquez2@dhl.com,LNC,Mar  8 2021 10:06PM,NULL,NULL,Apr 14 2021 10:28PM
+1,360,LNC,Juan,Zuniga,juan.zuniga@dhl.com,LNC,Mar 15 2021  7:26PM,NULL,NULL,Apr 14 2021 10:28PM
+1,361,LNC,Judy,Sprouse-Dill,judy.sprouse_dill@dhl.com,LNC,Jan 29 2021  9:09PM,NULL,NULL,Apr 14 2021 10:28PM
+1,362,LNC,Julia,Depasquale,julia.depasquale@dhl.com,LNC,Mar 12 2021  1:53PM,NULL,NULL,Apr 14 2021 10:28PM
+1,363,LNC,Julian,Muriel,julian.muriel@dhl.com,LNC,Mar 31 2021  3:08PM,NULL,NULL,Apr 14 2021 10:28PM
+1,364,LNC,Juline,Averette,juline.averette@dhl.com,LNC,Mar  8 2021  3:05AM,NULL,NULL,Apr 14 2021 10:28PM
+1,365,LNC,Jun,Inomata,jun.inomata@dhl.com,LNC,Jan 29 2021  9:44PM,NULL,NULL,Apr 14 2021 10:28PM
+1,376,LNC,Keith,Schwickrath,k.schwickrath@dhl.com,LNC,Jan 28 2021  4:21PM,NULL,NULL,Apr 14 2021 10:28PM
+1,366,LNC,Kabral,Brathwaite,kabral.brathwaite@dhl.com,LNC,Feb 10 2021 10:19PM,NULL,NULL,Apr 14 2021 10:28PM
+1,367,LNC,Kahlil,Baldwin,kahlil.baldwin@dhl.com,LNC,Mar 14 2021  5:47PM,NULL,NULL,Apr 14 2021 10:28PM
+1,368,LNC,Karen,Blagaich,karen.blagaich@dhl.com,LNC,Mar 15 2021 11:15AM,NULL,NULL,Apr 14 2021 10:28PM
+1,369,LNC,Karen,Underwood,karen.underwood@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:28PM
+1,370,LNC,Karla,Barrera,karla.barrera@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:28PM
+1,371,LNC,Kathleen,Kelly,kathleen.kelly@dhl.com,LNC,Mar 27 2021  8:08PM,NULL,NULL,Apr 14 2021 10:28PM
+1,372,LNC,Katrina,Duncan,katrina.duncan@dhl.com,LNC,Mar 13 2021  5:00PM,NULL,NULL,Apr 14 2021 10:28PM
+1,373,LNC,Katrina,Williams,katrina.williams@dhl.com,LNC,Mar 19 2021  2:42PM,NULL,NULL,Apr 14 2021 10:28PM
+1,374,LNC,Keith,Guerrero,keith.guerrero@dhl.com,LNC,Jan  6 2021  4:16PM,NULL,NULL,Apr 14 2021 10:28PM
+1,377,LNC,Kenneth,Garcia,kenneth.garcia@dhl.com,LNC,Mar 26 2021  6:11PM,NULL,NULL,Apr 14 2021 10:28PM
+1,378,LNC,Kenroy,Atkinson,kenroy.atkinson@dhl.com,LNC,Mar 19 2021  8:01PM,NULL,NULL,Apr 14 2021 10:28PM
+1,375,LNC,Keith,Moeller,kevin.moellers@dhl.com,LNC,Jan 28 2021  4:22PM,NULL,NULL,Apr 14 2021 10:28PM
+1,381,LNC,Kiara,Spence,kiara.spence@dhl.com,LNC,Mar 19 2021  8:14PM,NULL,NULL,Apr 14 2021 10:28PM
+1,382,LNC,Kim,Bavone,kim.bavone@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:28PM
+2,27,ccs,Kim,Bavone,kim.bavone@dhl.com,ccs,NULL,NULL,NULL,Apr 14 2021 10:10PM
+1,383,LNC,Kiran,Satti,kiran.satti@dhl.com,LNC,NULL,NULL,NULL,Apr 14 2021 10:28PM
+1,465,LNC,Mladen,Kondic,kondic.mladen@dhl.com,LNC,Apr  1 2021 12:02AM,NULL,NULL,Apr 14 2021 10:29PM
+1,384,LNC,Kris,Cerulli,kris.cerulli@dhl.com,LNC,Mar 29 2021 12:15PM,NULL,NULL,Apr 14 2021 10:28PM
+1,386,LNC,Kristopher,Stockett,kristopher.stockett@dhl.com,LNC,Mar 31 2021  8:47PM,NULL,NULL,Apr 14 2021 10:28PM
+2,19,ccs,"Kristopher ",Stockett,kristopher.stockett@dhl.com,ccs,Apr  2 2021 12:59PM,NULL,NULL,Apr 14 2021 10:10PM
+1,401,LNC,Lorence,Hinkelday,l.hinkelday@dhl.com,LNC,Feb 11 2021  8:30PM,NULL,NULL,Apr 14 2021 10:28PM
+1,388,LNC,Lazaro,Angulo,lazaro.angulo2@dhl.com,LNC,Jan 28 2021  3:44PM,NULL,NULL,Apr 14 2021 10:28PM
+1,389,LNC,Lazaro,Fernandez,lazaro.fernandez@dhl.com,LNC,Apr  1 2021 10:30AM,NULL,NULL,Apr 14 2021 10:28PM
+1,390,LNC,Leaulutee,Balgobin,lea.balgobin@dhl.com,LNC,Mar 31 2021 11:30PM,NULL,NULL,Apr 14 2021 10:28PM
+1,391,LNC,Lee,Bishop,lee.bishop@dhl.com,LNC,Apr  1 2021 10:13AM,NULL,NULL,Apr 14 2021 10:28PM
+1,392,LNC,Lee,Stroh,lee.stroh@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:28PM
+2,28,ccs,Lee,Stroh,lee.stroh@dhl.com,ccs,Apr  3 2021  2:48PM,NULL,NULL,Apr 14 2021 10:10PM
+1,393,LNC,Leonard,Militello,leonard.militello@dhl.com,LNC,Jan  6 2021  4:16PM,NULL,NULL,Apr 14 2021 10:28PM
+1,395,LNC,"Leroy ",Collins,leroy.collins@dhl.com,LNC,Mar 22 2021  4:01PM,NULL,NULL,Apr 14 2021 10:28PM
+1,397,LNC,Liliana,Obregon,liliana.obregon@dhl.com,LNC,Mar 31 2021  7:52PM,NULL,NULL,Apr 14 2021 10:28PM
+1,398,LNC,Liloutie,Mangal,liloutie.mangal@dhl.com,LNC,Mar 31 2021  7:23PM,NULL,NULL,Apr 14 2021 10:28PM
+1,399,LNC,Linda,Lawler,linda.lawler@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:28PM
+2,29,ccs,Linda,Lawler,linda.lawler@dhl.com,ccs,NULL,NULL,NULL,Apr 14 2021 10:10PM
+1,400,LNC,Liz,Philpot,liz.philpot@dhl.com,LNC,Mar 15 2021  3:30PM,NULL,NULL,Apr 14 2021 10:28PM
+1,67,LNC,Blerim,Llapashtica,llapashtica.blerim@dhl.com,LNC,Feb  5 2021  3:36AM,NULL,NULL,Apr 14 2021 10:25PM
+1,159,LNC,Edgar,Lopez,lopez.edgar@dhl.com,LNC,Mar 30 2021  9:57PM,NULL,NULL,Apr 14 2021 10:26PM
+1,403,LNC,Lori,Spivey,lori.spivey@dhl.com,LNC,Mar 30 2021  9:49PM,NULL,NULL,Apr 14 2021 10:28PM
+1,404,LNC,Lowell,Reese,lowell.reese@dhl.com,LNC,Mar 28 2021  6:09PM,NULL,NULL,Apr 14 2021 10:28PM
+1,405,LNC,Luis,Garcia,luis.garcia@dhl.com,LNC,Mar 29 2021 11:19PM,NULL,NULL,Apr 14 2021 10:28PM
+1,406,LNC,Luis,Holzmann,luis.holzmann@dhl.com,LNC,Mar 31 2021  7:15PM,NULL,NULL,Apr 14 2021 10:28PM
+1,407,LNC,Luis,Molina,luis.molina3@dhl.com,LNC,Jan  6 2021  4:16PM,NULL,NULL,Apr 14 2021 10:28PM
+1,409,LNC,Luis,Torrico,luis.torrico@dhl.com,LNC,Jan  6 2021  4:16PM,NULL,NULL,Apr 14 2021 10:28PM
+1,24,ccs,Lynn,Dulceak,lynn.dulceak@dhl.com,ccs,NULL,NULL,NULL,Apr 14 2021 10:10PM
+1,258,LNC,Jared,Lyons,lyons.jared@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:27PM
+1,443,LNC,Michael,Caracciola,m.caracciola@dhl.com,LNC,Mar 31 2021  7:24PM,NULL,NULL,Apr 14 2021 10:29PM
+1,423,LNC,Maria,Dianes,m.dianes@dhl.com,LNC,Mar 30 2021  9:09PM,NULL,NULL,Apr 14 2021 10:29PM
+1,165,LNC,Edwin,Macasero,macasero.edwin@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:26PM
+1,410,LNC,Magno,Duenas,magno.duenas@dhl.com,LNC,Jan  6 2021  4:16PM,NULL,NULL,Apr 14 2021 10:28PM
+1,411,LNC,Malik,Coultman,malik.coultman@dhl.com,LNC,Mar 27 2021  1:59PM,NULL,NULL,Apr 14 2021 10:28PM
+1,293,LNC,Joe,Mall,mall.joe@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:27PM
+1,484,LNC,Nouredine,Mallouka,mallouka.nouredine@dhl.com,LNC,Mar  8 2021  8:53PM,NULL,NULL,Apr 14 2021 10:29PM
+1,412,LNC,Malu,Tanjuaquio,malu.tanjuaquio@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:28PM
+1,176,LNC,Enrique,Manalo,manalo.enrique@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:26PM
+1,413,LNC,Manuel,Hernandez,manuel.hernandez@dhl.com,LNC,Mar 24 2021 10:24PM,NULL,NULL,Apr 14 2021 10:29PM
+1,414,LNC,Manuel,Montoya,manuel.montoya2@dhl.com,LNC,Mar 27 2021  1:47PM,NULL,NULL,Apr 14 2021 10:29PM
+1,415,LNC,Manuel,Rivera,manuel.rivera3@dhl.com,LNC,Mar 22 2021 10:23AM,NULL,NULL,Apr 14 2021 10:29PM
+1,416,LNC,Manuel,Sacasa,manuel.sacasa@dhl.com,LNC,Mar 18 2021  3:28PM,NULL,NULL,Apr 14 2021 10:29PM
+1,417,LNC,Marcia,St Louis,marcia.stlouis@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:29PM
+1,420,LNC,Marcus,Cameron,marcus.cameron@dhl.com,LNC,Mar 30 2021  7:28AM,NULL,NULL,Apr 14 2021 10:29PM
+1,421,LNC,Marcus,Glass,marcus.glass@dhl.com,LNC,Mar 22 2021  4:01PM,NULL,NULL,Apr 14 2021 10:29PM
+1,422,LNC,Maria,Avalo,maria.avalo@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:29PM
+1,424,LNC,Maria,Godinez,maria.godinez@dhl.com,LNC,Mar 30 2021  8:14PM,NULL,NULL,Apr 14 2021 10:29PM
+1,425,LNC,Maria,Oyarzun,maria.oyarzun@dhl.com,LNC,Mar 31 2021  6:42PM,NULL,NULL,Apr 14 2021 10:29PM
+2,5,ccs,Maria,Oyarzun,Maria.Oyarzun@dhl.com,ccs,NULL,Mar  1 2021  9:05PM,NULL,Apr 14 2021 10:10PM
+1,23,ccs,Maria,Vega,maria.vega@dhl.com,ccs,NULL,NULL,NULL,Apr 14 2021 10:10PM
+1,427,LNC,Marina,Inatomi,marina.inatomi@dhl.com,LNC,Mar 18 2021  9:14PM,NULL,NULL,Apr 14 2021 10:29PM
+1,428,LNC,Mark,Abbott,mark.abbott2@dhl.com,LNC,Feb 24 2021  5:45AM,NULL,NULL,Apr 14 2021 10:29PM
+1,430,LNC,Mark,Harvey,mark.harvey@dhl.com,LNC,Apr  1 2021  5:49AM,NULL,NULL,Apr 14 2021 10:29PM
+1,431,LNC,Mark,Milwich,mark.milwich@dhl.com,LNC,Apr 22 2020  8:41PM,NULL,NULL,Apr 14 2021 10:29PM
+1,434,LNC,Marlow,Epps,marlow.epps@dhl.com,LNC,Mar 28 2021 12:10PM,NULL,NULL,Apr 14 2021 10:29PM
+1,435,LNC,Martin,Franco,martin.franco@dhl.com,LNC,Mar 24 2021  8:48PM,NULL,NULL,Apr 14 2021 10:29PM
+1,436,LNC,Martin,Hickey,martin.hickey@dhl.com,LNC,Mar 31 2021  8:04PM,NULL,NULL,Apr 14 2021 10:29PM
+1,62,LNC,Benjamin,Martinez,martinez.benjamin@dhl.com,LNC,Mar 26 2021  4:03AM,NULL,NULL,Apr 14 2021 10:25PM
+1,200,LNC,Gabriel,Martinez,martinez.gabriel@dhl.com,LNC,Mar 27 2021  4:09PM,NULL,NULL,Apr 14 2021 10:27PM
+1,211,LNC,Gerardo,Martinez Rodela,martinez.gerardo@dhl.com,LNC,Mar 29 2021  5:43PM,NULL,NULL,Apr 14 2021 10:27PM
+1,437,LNC,Mary,Carter,mary.carter@dhl.com,LNC,Dec 11 2020  7:36AM,NULL,NULL,Apr 14 2021 10:29PM
+1,438,LNC,Matt,Mullins,matt.mullins@dhl.com,LNC,Mar 31 2021  1:32PM,NULL,NULL,Apr 14 2021 10:29PM
+1,439,LNC,Maureen,Dunlevy,maureen.dunlevy@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:29PM
+1,440,LNC,Mawuena,Freitas,mawuena.freitas@dhl.com,LNC,Mar 31 2021  6:26PM,NULL,NULL,Apr 14 2021 10:29PM
+1,16,ccs,Maykel,Hernandez,Maykel.Hernandez@dhl.com,ccs,Mar 19 2021  8:53PM,NULL,NULL,Apr 14 2021 10:10PM
+1,441,LNC,Maynard,Sanchez,maynard.sanchez@dhl.com,LNC,Mar 30 2021  9:57PM,NULL,NULL,Apr 14 2021 10:29PM
+1,601,LNC,Shaun,McKenna,mckenna.shaun@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:30PM
+1,380,LNC,Kevin,McMillan,mcmillan.kevin@dhl.com,LNC,Mar 31 2021  8:14PM,NULL,NULL,Apr 14 2021 10:28PM
+1,504,LNC,Paul,Mele,mele.paul@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:29PM
+1,445,LNC,Michael,Hall,michael.hall@dhl.com,LNC,Mar 22 2021  4:01PM,NULL,NULL,Apr 14 2021 10:29PM
+1,447,LNC,Michael,Jacobazzi,michael.jacobazzi@dhl.com,LNC,Apr  1 2021  4:43AM,NULL,NULL,Apr 14 2021 10:29PM
+1,449,LNC,Michael,Pertrarca,michael.pertrarca@dhl.com,LNC,Feb 13 2021  8:20PM,NULL,NULL,Apr 14 2021 10:29PM
+1,450,LNC,Michael,Wrasse,michael.wrasse@dhl.com,LNC,Apr  1 2021  9:49AM,NULL,NULL,Apr 14 2021 10:29PM
+1,451,LNC,Michelle,Bellefeuille,michelle.bellefeuille@dhl.com,LNC,Mar 31 2021  7:45PM,NULL,NULL,Apr 14 2021 10:29PM
+1,452,LNC,Michelle,Driscoll,michelle.driscoll@dhl.com,LNC,Mar 31 2021  8:10PM,NULL,NULL,Apr 14 2021 10:29PM
+1,454,LNC,Miguel,Gutierrez,miguel.a.gutierrez@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:29PM
+1,456,LNC,Miguel,Valencia,miguel.valencia@dhl.com,LNC,Mar 15 2021  1:33PM,NULL,NULL,Apr 14 2021 10:29PM
+1,457,LNC,Mike,Fahey,mike.fahey@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:29PM
+1,459,LNC,Mike,Scheerer,mike.scheerer@dhl.com,LNC,Mar 30 2021 12:39PM,NULL,NULL,Apr 14 2021 10:29PM
+1,460,LNC,Mikhail,Ginzburg,mikhail.ginzburg@dhl.com,LNC,Apr  1 2021  9:47AM,NULL,NULL,Apr 14 2021 10:29PM
+1,31,LNC,Andrew,Mikhailov,mikhailov.andrew@dhl.com,LNC,Mar 31 2021  9:35PM,NULL,NULL,Apr 14 2021 10:25PM
+1,433,LNC,Marko,Milenkovic,milenkovic.marko@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:29PM
+1,109,LNC,Christopher,Miller,miller.christopher@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:26PM
+1,462,LNC,Miodrag,Labcevic,miodrag.lapcevic@dhl.com,LNC,Mar 31 2021  3:16PM,NULL,NULL,Apr 14 2021 10:29PM
+1,464,LNC,Mitch,Cashion,mitch.cashion@dhl.com,LNC,Apr  1 2021 12:19AM,NULL,NULL,Apr 14 2021 10:29PM
+1,466,LNC,Mohammed,Eid,mohammed.eid@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:29PM
+1,448,LNC,Michael,Mohawk,mohawk.michael@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:29PM
+1,199,LNC,Freddy,Mojica,mojica.freddy@dhl.com,LNC,Mar  8 2021  2:57PM,NULL,NULL,Apr 14 2021 10:27PM
+1,606,LNC,Socrates,Montiel,montiel.socrates@dhl.com,LNC,Mar 29 2021  8:13PM,NULL,NULL,Apr 14 2021 10:30PM
+1,541,LNC,Ricardo,Moreno-Alanis,morenoalanis.ricardo@dhl.com,LNC,Mar 31 2021  7:24PM,NULL,NULL,Apr 14 2021 10:30PM
+1,442,LNC,Mel,Music,music.mel@dhl.com,LNC,Mar 17 2021  6:47PM,NULL,NULL,Apr 14 2021 10:29PM
+1,467,LNC,Nancy,Donado,nancy.donado@dhl.com,LNC,Mar 31 2021  9:12PM,NULL,NULL,Apr 14 2021 10:29PM
+1,468,LNC,Nancy,Melendez,nancy.melendez@dhl.com,LNC,Mar 31 2021 10:54PM,NULL,NULL,Apr 14 2021 10:29PM
+1,469,LNC,Nancy,Newns,nancy.newns@dhl.com,LNC,Mar 24 2021  8:44PM,NULL,NULL,Apr 14 2021 10:29PM
+1,21,ccs,NANCY,NEWNS,nancy.newns2@dhl.com,ccs,Mar 24 2021  2:16AM,NULL,NULL,Apr 14 2021 10:10PM
+1,32,ccs,Nathalia,Duque,nathalia.zamudio_duque@dhl.com,ccs,NULL,NULL,NULL,Apr 14 2021 10:10PM
+1,470,LNC,Nate,Holmes,nathaniel.holmes@dhl.com,LNC,Mar 31 2021  2:18AM,NULL,NULL,Apr 14 2021 10:29PM
+1,32,LNC,Andrew,Navarro,navarro.andrew@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:25PM
+1,473,LNC,Nelson,Serafin,nelson.serafin@dhl.com,LNC,Mar 29 2021  3:51PM,NULL,NULL,Apr 14 2021 10:29PM
+1,474,LNC,Nicholas,Scavelli,nicholas.scavelli@dhl.com,LNC,Mar 16 2021  6:05PM,NULL,NULL,Apr 14 2021 10:29PM
+1,476,LNC,Nick,Bittner,nick.bittner@dhl.com,LNC,Feb  4 2021  6:59PM,NULL,NULL,Apr 14 2021 10:29PM
+1,477,LNC,Nick,Theodorou,nick.theodorou@dhl.com,LNC,Mar 14 2021  6:47PM,NULL,NULL,Apr 14 2021 10:29PM
+1,478,LNC,Nikhil,Yerram,nikhil.yerram@dhl.com,LNC,NULL,NULL,NULL,Apr 14 2021 10:29PM
+1,479,LNC,Nikolinka,Lazarova,nikolinka.lazarova@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:29PM
+1,351,LNC,Juan,Lahoz,noemail_juan.lahoz@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:28PM
+1,481,LNC,Norma,Patel,norma.patel@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:29PM
+1,482,LNC,Norman,Allan,norman.allan@dhl.com,LNC,Apr  1 2021  3:02AM,NULL,NULL,Apr 14 2021 10:29PM
+1,485,LNC,Nusret,Lelic,nusret.lelic@dhl.com,LNC,Mar 27 2021  1:20PM,NULL,NULL,Apr 14 2021 10:29PM
+1,418,LNC,Marco,Oregel,oregel.marco@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:29PM
+1,486,LNC,Oriana,Montano,oriana.montano@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:29PM
+1,487,LNC,Orlando,Allen,orlando.allen@dhl.com,LNC,Mar 31 2021 10:00PM,NULL,NULL,Apr 14 2021 10:29PM
+1,235,LNC,Ignacio,Orozco Jr,orozcojr.ignacio@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:27PM
+1,648,LNC,Victor,Ortiz,ortiz.victor@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:31PM
+1,488,LNC,Osbaldo,Castillo,osbaldo.castillo@dhl.com,LNC,Jan  6 2021  4:16PM,NULL,NULL,Apr 14 2021 10:29PM
+1,489,LNC,Oscar,Chavez,oscar.chavez@dhl.com,LNC,Mar 27 2021 11:47PM,NULL,NULL,Apr 14 2021 10:29PM
+1,490,LNC,Oscar,Palencia,oscar.palencia@dhl.com,LNC,Jan  6 2021  4:16PM,NULL,NULL,Apr 14 2021 10:29PM
+1,491,LNC,Oscar,Velez,oscar.velez@dhl.com,LNC,Mar 18 2021  9:29PM,NULL,NULL,Apr 14 2021 10:29PM
+1,221,LNC,Hajrudin,Osmancevic,osmancevic.hajrudin@dhl.com,LNC,Mar 31 2021  8:22PM,NULL,NULL,Apr 14 2021 10:27PM
+1,216,LNC,Gregory,Ostafijczuk,ostafijczuk.gregory@dhl.com,LNC,Mar 30 2021  6:03PM,NULL,NULL,Apr 14 2021 10:27PM
+1,505,LNC,Paul,Nero,p.nero@dhl.com,LNC,Jan 28 2021  4:23PM,NULL,NULL,Apr 14 2021 10:29PM
+1,507,LNC,Paul,Simonin,p.simonin@dhl.com,LNC,Mar 24 2021  8:29PM,NULL,NULL,Apr 14 2021 10:29PM
+1,494,LNC,Pablo,Mejia,pablo.mejia@dhl.com,LNC,Mar 31 2021 10:25PM,NULL,NULL,Apr 14 2021 10:29PM
+1,495,LNC,Pablo,Yanez,pablo.yanez@dhl.com,LNC,Jan  6 2021  4:16PM,NULL,NULL,Apr 14 2021 10:29PM
+1,496,LNC,Pamela,Lambert,pamela.lambert@dhl.com,LNC,Mar 19 2021  8:10PM,NULL,NULL,Apr 14 2021 10:29PM
+1,497,LNC,Pancho,Cruz,pancho.cruz@dhl.com,LNC,Mar 15 2021  1:49PM,NULL,NULL,Apr 14 2021 10:29PM
+1,63,LNC,Bernard,Paschal Jr,paschal.bernard@dhl.com,LNC,Mar  4 2021 10:00PM,NULL,NULL,Apr 14 2021 10:25PM
+1,461,LNC,Milen,Passev,passev.milen@dhl.com,LNC,Mar 31 2021  4:11PM,NULL,NULL,Apr 14 2021 10:29PM
+1,498,LNC,Patrick,Chevalier,patrick.chevalier@dhl.com,LNC,Mar 29 2021  6:45PM,NULL,NULL,Apr 14 2021 10:29PM
+1,499,LNC,Patrick,Finley,patrick.finley@dhl.com,LNC,Mar 31 2021 11:21PM,NULL,NULL,Apr 14 2021 10:29PM
+1,500,LNC,Patrick,Green,patrick.green@dhl.com,LNC,Mar 30 2021  8:38PM,NULL,NULL,Apr 14 2021 10:29PM
+1,501,LNC,Patrick,Moses,patrick.moses2@dhl.com,LNC,Mar 31 2021 11:08PM,NULL,NULL,Apr 14 2021 10:29PM
+1,502,LNC,Paul,Marshall,paul.marshall1@dhl.com,LNC,Mar 24 2021 12:03AM,NULL,NULL,Apr 14 2021 10:29PM
+1,503,LNC,Paul,Matuszczak,paul.matuszczak@dhl.com,LNC,Mar 23 2021  1:43PM,NULL,NULL,Apr 14 2021 10:29PM
+1,506,LNC,Paul,Santana,paul.santana@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:29PM
+1,508,LNC,Paul,Valdez,paul.valdez@dhl.com,LNC,Mar 29 2021  5:33PM,NULL,NULL,Apr 14 2021 10:29PM
+1,509,LNC,Pawel,Podgorecki,pawel.podgorecki@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:29PM
+1,512,LNC,Pedro A,Rodriguez,pedro.arodriguez@dhl.com,LNC,NULL,NULL,NULL,Apr 14 2021 10:29PM
+1,510,LNC,Pedro,Jerez,pedro.jerez2@dhl.com,LNC,Jan 28 2021  3:44PM,NULL,NULL,Apr 14 2021 10:29PM
+1,511,LNC,Pedro,Morales,pedro.morales@dhl.com,LNC,Mar 30 2021  6:29PM,NULL,NULL,Apr 14 2021 10:29PM
+1,194,LNC,Francisco,Peralta,peralta.francisco@dhl.com,LNC,Feb 21 2021  9:07AM,NULL,NULL,Apr 14 2021 10:26PM
+1,513,LNC,Peter,Phann,peter.phan@dhl.com,LNC,Apr  1 2021  4:55AM,NULL,NULL,Apr 14 2021 10:29PM
+1,514,LNC,Phil,DeFrancesco,phil.defrancesco@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:29PM
+2,30,ccs,Phil,"DeFrancesco ",phil.DeFrancesco@dhl.com,ccs,NULL,NULL,NULL,Apr 14 2021 10:10PM
+1,515,LNC,Phil,Girondi,phillip.girondi@dhl.com,LNC,Mar 26 2021 12:35PM,NULL,NULL,Apr 14 2021 10:29PM
+1,516,LNC,Phillip,Willaims,phillip.williams@dhl.com,LNC,Mar 31 2021  2:35PM,NULL,NULL,Apr 14 2021 10:29PM
+1,517,LNC,Pietro,Parisi,pietro.parisi@dhl.com,LNC,Feb  5 2021 12:18PM,NULL,NULL,Apr 14 2021 10:29PM
+1,518,LNC,Piotr,Niewiadomski,piotr.niewiadomski@dhl.com,LNC,Mar 31 2021  8:52PM,NULL,NULL,Apr 14 2021 10:29PM
+1,519,LNC,Piter,Acosta,piter.acosta@dhl.com,LNC,Mar 29 2021  7:18PM,NULL,NULL,Apr 14 2021 10:29PM
+1,132,LNC,Darko,Popovic,popovic.darko@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:26PM
+1,36,LNC,Angel,Posadas Martinez,posadas.angel@dhl.com,LNC,Mar 29 2021  8:36PM,NULL,NULL,Apr 14 2021 10:25PM
+1,7,ccs,Pragna,Shah,Pragna.Shah@dhl.com,ccs,Apr  3 2021  2:08PM,NULL,NULL,Apr 14 2021 10:10PM
+1,520,LNC,Quadir,Lewis,quadir.lewis@dhl.com,LNC,Mar 31 2021 11:04PM,NULL,NULL,Apr 14 2021 10:30PM
+1,266,LNC,Javier,Quintana Jr,quintana.javier@dhl.com,LNC,Feb 25 2021  6:59PM,NULL,NULL,Apr 14 2021 10:27PM
+1,265,LNC,Javier,Quintana,quintana.javier1@dhl.com,LNC,Mar 19 2021  2:35PM,NULL,NULL,Apr 14 2021 10:27PM
+1,455,LNC,Miguel,Quintana,quintana.miguel@dhl.com,LNC,Mar 17 2021 11:04AM,NULL,NULL,Apr 14 2021 10:29PM
+1,472,LNC,Nelson,Quintana,quintana.nelson@dhl.com,LNC,Mar 12 2021 10:29PM,NULL,NULL,Apr 14 2021 10:29PM
+1,574,LNC,Rolando,Basulto,r.basulto@dhl.com,LNC,Mar 31 2021  6:36PM,NULL,NULL,Apr 14 2021 10:30PM
+1,547,LNC,Richard,Wood,r.wood3@dhl.com,LNC,Mar 31 2021  4:50PM,NULL,NULL,Apr 14 2021 10:30PM
+1,522,LNC,Rafael,Asencio,rafael.asencio3@dhl.com,LNC,Mar 24 2021  7:36PM,NULL,NULL,Apr 14 2021 10:30PM
+1,523,LNC,Raffale,Franzese,raffale.franzese@dhl.com,LNC,Mar 31 2021  3:10PM,NULL,NULL,Apr 14 2021 10:30PM
+1,525,LNC,Ralp,Donofrio,ralph.donofrio1@dhl.com,LNC,Mar  2 2021  1:13PM,NULL,NULL,Apr 14 2021 10:30PM
+1,527,LNC,Randy,Godbee,randy.godbee@dhl.com,LNC,Mar 31 2021  2:36PM,NULL,NULL,Apr 14 2021 10:30PM
+1,528,LNC,Randy,Mason Jr,randy.masonjr@dhl.com,LNC,Mar 13 2021  6:26AM,NULL,NULL,Apr 14 2021 10:30PM
+1,6,ccs,Randy,Plasencia,Randy.Plasencia@dhl.com,ccs,Apr  5 2021  1:09PM,Mar 19 2021  1:38PM,NULL,Apr 14 2021 10:10PM
+1,530,LNC,Raul,Lopez,raul.lopez2@dhl.com,LNC,Mar 31 2021  6:11PM,NULL,NULL,Apr 14 2021 10:30PM
+1,531,LNC,Ray,Harris,ray.harris@dhl.com,LNC,Mar 27 2021 12:15PM,NULL,NULL,Apr 14 2021 10:30PM
+1,532,LNC,Ray,Villalobos,ray.villalobos@dhl.com,LNC,Mar 26 2021  5:32AM,NULL,NULL,Apr 14 2021 10:30PM
+1,533,LNC,Raymond,Johnson,raymond.johnson@dhl.com,LNC,Mar 31 2021  2:20PM,NULL,NULL,Apr 14 2021 10:30PM
+1,534,LNC,Raymond,Molina,raymond.molina@dhl.com,LNC,Mar 31 2021  9:28PM,NULL,NULL,Apr 14 2021 10:30PM
+1,535,LNC,Raymond,Toussaint,raymond.toussaint@dhl.com,LNC,Mar 31 2021  6:53PM,NULL,NULL,Apr 14 2021 10:30PM
+1,492,LNC,Oswaldo,Rekalde,rekalde.oswaldo@dhl.com,LNC,Mar 21 2021  1:45AM,NULL,NULL,Apr 14 2021 10:29PM
+1,536,LNC,Rendill,Hernandez,rendill.hernandez2@dhl.com,LNC,Mar 31 2021  6:23PM,NULL,NULL,Apr 14 2021 10:30PM
+1,537,LNC,Rene,Covarrubias,rene.covarrubias@dhl.com,LNC,Feb 13 2021  8:20PM,NULL,NULL,Apr 14 2021 10:30PM
+1,538,LNC,Renieve,Horton,renieve.horton@dhl.com,LNC,Mar 15 2021  4:00PM,NULL,NULL,Apr 14 2021 10:30PM
+1,539,LNC,Reynol,Montes de Oca,reynaldo.montes_de_oca@dhl.com,LNC,Apr  1 2021 10:29AM,NULL,NULL,Apr 14 2021 10:30PM
+1,540,LNC,Ricardo,Cervantes,ricardo.cervantes@dhl.com,LNC,Apr  1 2021  5:25AM,NULL,NULL,Apr 14 2021 10:30PM
+1,542,LNC,Ricardo,Rodriguez,ricardo.rodriguez@dhl.com,LNC,Mar  3 2021 10:35PM,NULL,NULL,Apr 14 2021 10:30PM
+1,543,LNC,Ricardo,Serrano,ricardo.serrano@dhl.com,LNC,Feb  5 2021  3:40AM,NULL,NULL,Apr 14 2021 10:30PM
+1,544,LNC,Rich,Gols,rich.gols@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:30PM
+1,545,LNC,Richard,Cox,richard.cox2@dhl.com,LNC,Feb 23 2021  2:16PM,NULL,NULL,Apr 14 2021 10:30PM
+1,17,ccs,Richard,Poore,richard.poore@dhl.com,ccs,Mar 29 2021  7:42PM,NULL,NULL,Apr 14 2021 10:10PM
+1,546,LNC,Richard,Thompson,richard.thompson@dhl.com,LNC,Feb 13 2021  8:20PM,NULL,NULL,Apr 14 2021 10:30PM
+1,548,LNC,Ricky,Moeller,ricky.moeller@dhl.com,LNC,Mar 31 2021 11:24PM,NULL,NULL,Apr 14 2021 10:30PM
+1,549,LNC,Ricky,Nixon,ricky.nixon2@dhl.com,LNC,Apr  1 2021  2:07AM,NULL,NULL,Apr 14 2021 10:30PM
+1,550,LNC,Rigoberto,Gonzalez,rigoberto.gonzalez@dhl.com,LNC,Mar 28 2021  4:10AM,NULL,NULL,Apr 14 2021 10:30PM
+1,551,LNC,Rita,Furuya,rita.furuya@dhl.com,LNC,Mar 31 2021  7:47PM,NULL,NULL,Apr 14 2021 10:30PM
+1,552,LNC,Rita,Hatter,rita.hatter@dhl.com,LNC,Mar 26 2021  3:03PM,NULL,NULL,Apr 14 2021 10:30PM
+1,432,LNC,Mark,Rivera,rivera.mark@dhl.com,LNC,Feb 12 2021  3:37PM,NULL,NULL,Apr 14 2021 10:29PM
+1,553,LNC,Robby,Liller,robby.liller@dhl.com,LNC,Mar  8 2021  9:44PM,NULL,NULL,Apr 14 2021 10:30PM
+1,554,LNC,Robert,Bernard,robert.bernard2@dhl.com,LNC,Mar 31 2021  3:03PM,NULL,NULL,Apr 14 2021 10:30PM
+1,555,LNC,Robert,Beutlich,robert.beutlich@dhl.com,LNC,Mar 25 2021  7:45PM,NULL,NULL,Apr 14 2021 10:30PM
+1,565,LNC,Roberto,Boye,robert.boye@dhl.com,LNC,Mar 31 2021  8:06AM,NULL,NULL,Apr 14 2021 10:30PM
+1,560,LNC,Robert,Montgomery,robert.montgomery@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:30PM
+1,561,LNC,Robert,Mytnik Jr,robert.mytnikjr@dhl.com,LNC,Jan 29 2021  9:44PM,NULL,NULL,Apr 14 2021 10:30PM
+1,562,LNC,Robert,Pyle,robert.pyle@dhl.com,LNC,Mar 25 2021  9:31PM,NULL,NULL,Apr 14 2021 10:30PM
+1,563,LNC,Robert,Woodyard,robert.woodyard@dhl.com,LNC,Jan 28 2021  4:25PM,NULL,NULL,Apr 14 2021 10:30PM
+1,564,LNC,Roberta,Miller,roberta.miller@dhl.com,LNC,Mar 31 2021  5:27PM,NULL,NULL,Apr 14 2021 10:30PM
+1,566,LNC,Roberto,Solis,roberto.solis@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:30PM
+2,31,ccs,Roberto,Solis,roberto.solis@dhl.com,ccs,NULL,NULL,NULL,Apr 14 2021 10:10PM
+1,567,LNC,Roberto,Valladolid,roberto.valladolid@dhl.com,LNC,Mar 30 2021 10:47PM,NULL,NULL,Apr 14 2021 10:30PM
+1,568,LNC,Roderick,Hall,roderick.hall@dhl.com,LNC,Mar 31 2021 11:14PM,NULL,NULL,Apr 14 2021 10:30PM
+1,569,LNC,"Rodney ",Alvarado,rodney.alvarado@dhl.com,LNC,Jan  6 2021  4:16PM,NULL,NULL,Apr 14 2021 10:30PM
+1,570,LNC,Rodolfo,Calderon,rodolfo.calderon@dhl.com,LNC,Jan  6 2021  4:16PM,NULL,NULL,Apr 14 2021 10:30PM
+1,571,LNC,Rodolfo,Garcia,rodolfo.garcia@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:30PM
+1,572,LNC,Rodrick,Johnson,rodrick.johnson@dhl.com,LNC,Mar 31 2021  2:44PM,NULL,NULL,Apr 14 2021 10:30PM
+1,576,LNC,Ronald,Fast,ronald.fast@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:30PM
+1,577,LNC,Rosa,Gonzalez,rosa.gonzalez@dhl.com,LNC,Mar 30 2021  1:14PM,NULL,NULL,Apr 14 2021 10:30PM
+1,578,LNC,Rosemarie,Salazar,rose.salazar@dhl.com,LNC,Mar 31 2021  8:09PM,NULL,NULL,Apr 14 2021 10:30PM
+1,579,LNC,Rotem,Kristal,rotem.kristal@dhl.com,LNC,Dec  2 2020  2:04PM,NULL,NULL,Apr 14 2021 10:30PM
+1,426,LNC,Mariano,Ruiz,ruiz.mariano@dhl.com,LNC,Mar 31 2021  7:27PM,NULL,NULL,Apr 14 2021 10:29PM
+1,580,LNC,Rumoine,Parker,rumoine.parker@dhl.com,LNC,Apr  1 2021 10:14AM,NULL,NULL,Apr 14 2021 10:30PM
+1,582,LNC,Ryan,Navasca,ryan.navasca@dhl.com,LNC,Mar 31 2021  3:26AM,NULL,NULL,Apr 14 2021 10:30PM
+1,603,LNC,Siam,Baksh,s.baksh@dhl.com,LNC,Mar  4 2021  9:00PM,NULL,NULL,Apr 14 2021 10:30PM
+1,604,LNC,Sigfredo,Perez,s.perez2@dhl.com,LNC,Jan 28 2021  4:26PM,NULL,NULL,Apr 14 2021 10:30PM
+1,593,LNC,Sergey,Yeremeyeff,s.yeremeyeff@dhl.com,LNC,Jan 28 2021  4:26PM,NULL,NULL,Apr 14 2021 10:30PM
+1,583,LNC,Sadika,Lelic,sadika.lelic@dhl.com,LNC,Mar 31 2021 11:55PM,NULL,NULL,Apr 14 2021 10:30PM
+1,584,LNC,Sal,Chillemi,sal.chillemi@dhl.com,LNC,Mar 31 2021  5:39PM,NULL,NULL,Apr 14 2021 10:30PM
+1,586,LNC,Sallym,Esparza,sally.esparza@dhl.com,LNC,Feb 23 2021  2:16PM,NULL,NULL,Apr 14 2021 10:30PM
+1,408,LNC,Luis,Sanchez,sanchez.luis@dhl.com,LNC,Feb 12 2021  5:04PM,NULL,NULL,Apr 14 2021 10:28PM
+1,588,LNC,Santiago,Puentes,santiago.puentes@dhl.com,LNC,Mar 31 2021  8:06PM,NULL,NULL,Apr 14 2021 10:30PM
+1,589,LNC,Saul,Rivera,saul.c.rivera@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:30PM
+1,309,LNC,John,Schembari,schembari.john@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:28PM
+1,591,LNC,Sean,Moran,sean.moran@dhl.com,LNC,Jan  6 2021  4:16PM,NULL,NULL,Apr 14 2021 10:30PM
+1,594,LNC,Servando,Rodriguez,servando.rodriguez@dhl.com,LNC,Mar 28 2021  1:02AM,NULL,NULL,Apr 14 2021 10:30PM
+1,595,LNC,Seth,Boyce,seth.boyce@dhl.com,LNC,Mar 31 2021 10:14PM,NULL,NULL,Apr 14 2021 10:30PM
+1,596,LNC,Shadae,White,shadae.white@dhl.com,LNC,Mar 23 2021  7:04PM,NULL,NULL,Apr 14 2021 10:30PM
+1,597,LNC,Shakeera,Williams,shakeera.williams@dhl.com,LNC,Mar 19 2021  8:14PM,NULL,NULL,Apr 14 2021 10:30PM
+1,598,LNC,Shariq,Abbasi,shariq.abbasi@dhl.com,LNC,Mar 15 2021  1:49PM,NULL,NULL,Apr 14 2021 10:30PM
+1,599,LNC,Sharla,Sterling,sharla.sterling@dhl.com,LNC,Mar 27 2021  8:13PM,NULL,NULL,Apr 14 2021 10:30PM
+1,600,LNC,Sharmila,Persaud,sharmila.persaud@dhl.com,LNC,Mar 31 2021  9:23PM,NULL,NULL,Apr 14 2021 10:30PM
+1,14,ccs,Shengyao,Zhang,shengyao.zhang@dhl.com,ccs,Apr  1 2021  4:59PM,NULL,NULL,Apr 14 2021 10:10PM
+1,602,LNC,Sherry,Khan,sherry.khan@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:30PM
+1,219,LNC,Guot,Shol,shol.guot@dhl.com,LNC,Mar 31 2021 10:29PM,NULL,NULL,Apr 14 2021 10:27PM
+1,632,LNC,Tim,Shulgan,shulgan.tim@dhl.com,LNC,Mar 31 2021  3:47PM,NULL,NULL,Apr 14 2021 10:31PM
+1,471,LNC,Nazar,Shumchuk,shumchuk.nazar@dhl.com,LNC,Mar 27 2021  7:28PM,NULL,NULL,Apr 14 2021 10:29PM
+1,587,LNC,Samuel,Silva,silva.samuel@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:30PM
+1,154,LNC,Dragan,Simic,simic.dragan@dhl.com,LNC,Mar 29 2021  1:31PM,NULL,NULL,Apr 14 2021 10:26PM
+1,605,LNC,Simon,Park,simon.park@dhl.com,LNC,Apr  1 2021  5:55AM,NULL,NULL,Apr 14 2021 10:30PM
+1,607,LNC,Sonia,Siguencia,sonia.siguencia@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:30PM
+1,650,LNC,Victor,Soto,soto.victor@dhl.com,LNC,Feb 24 2021  5:04PM,NULL,NULL,Apr 14 2021 10:31PM
+1,475,LNC,Nicholas,Sperlazzo,sperlazzo.nicholas@dhl.com,LNC,Mar 31 2021  3:18PM,NULL,NULL,Apr 14 2021 10:29PM
+1,608,LNC,Spring,Sullivent,spring.sullivent@dhl.com,LNC,Mar 18 2021  7:37PM,NULL,NULL,Apr 14 2021 10:30PM
+1,609,LNC,Stacy,Reid,stacy.reid@dhl.com,LNC,Mar 22 2021  4:01PM,NULL,NULL,Apr 14 2021 10:30PM
+1,1,ccs,Stephanie,Handsome,stephanie.handsome@dhl.com,ccs,Oct 30 2020  4:22PM,Mar  1 2021  9:05PM,NULL,Apr 14 2021 10:09PM
+1,611,LNC,Stephanie,McDonald,stephanie.mcdonald@dhl.com,LNC,Mar 14 2021  5:21PM,NULL,NULL,Apr 14 2021 10:30PM
+1,613,LNC,Steve,Amberg,steve.amberg@dhl.com,LNC,Mar 26 2021  7:14PM,NULL,NULL,Apr 14 2021 10:30PM
+1,614,LNC,Steve,Cleveland,steve.cleveland@dhl.com,LNC,Mar 30 2021  8:44PM,NULL,NULL,Apr 14 2021 10:30PM
+1,612,LNC,Stephen,Mehale,steve.mehale@dhl.com,LNC,Jan 28 2021  4:26PM,NULL,NULL,Apr 14 2021 10:30PM
+1,615,LNC,Steven,David,steven.david@dhl.com,LNC,Mar 31 2021  8:23PM,NULL,NULL,Apr 14 2021 10:30PM
+1,616,LNC,Steven,Santiago,steven.santiago@dhl.com,LNC,Mar 26 2021 12:44AM,NULL,NULL,Apr 14 2021 10:30PM
+1,672,LNC,Zaim,Subasic,subasic.zaim@dhl.com,LNC,Feb 21 2021  5:05PM,NULL,NULL,Apr 14 2021 10:31PM
+1,617,LNC,Suhayb,Pitts,suhayb.pitts@dhl.com,LNC,Mar 30 2021  1:48PM,NULL,NULL,Apr 14 2021 10:30PM
+1,618,LNC,Susan,Quarto,susan.quarto@dhl.com,LNC,Mar 31 2021  9:32PM,NULL,NULL,Apr 14 2021 10:30PM
+1,619,LNC,Svetlana,Vergel,svetlana.vergel@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:30PM
+1,255,LNC,Jan,Szypcio,szypcio.jan@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:27PM
+1,620,LNC,Tahmas,Avakian,tahmas.avakian@dhl.com,LNC,Mar 31 2021  6:08PM,NULL,NULL,Apr 14 2021 10:30PM
+1,621,LNC,Tania,Hernandez,tania.hernandez@dhl.com,LNC,Mar 28 2021  5:22PM,NULL,NULL,Apr 14 2021 10:30PM
+1,622,LNC,Tenita,Johnson,tenita.johnson2@dhl.com,LNC,Mar 19 2021  8:09PM,NULL,NULL,Apr 14 2021 10:30PM
+1,623,LNC,Teresa,Gonzalez,teresa.gonzalez@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:30PM
+1,625,LNC,Thomas,Bergmann,thomas.bergmann@dhl.com,LNC,Jan 28 2021  4:26PM,NULL,NULL,Apr 14 2021 10:30PM
+1,626,LNC,Thomas,Gormley,thomas.gormley@dhl.com,LNC,Mar 31 2021  4:18PM,NULL,NULL,Apr 14 2021 10:30PM
+1,627,LNC,Thomas,Prempeh,thomas.prempeh@dhl.com,LNC,Mar 31 2021  4:17PM,NULL,NULL,Apr 14 2021 10:31PM
+1,628,LNC,Thomas,Volino,thomas.volino@dhl.com,LNC,Mar 28 2021  9:16PM,NULL,NULL,Apr 14 2021 10:31PM
+1,629,LNC,TiJuan,Bates,ti.juan.bates@dhl.com,LNC,Mar 14 2021 12:33PM,NULL,NULL,Apr 14 2021 10:31PM
+1,630,LNC,TiJuan,Bates,tijuan.bates@dhl.com,LNC,Mar 15 2021  5:30PM,NULL,NULL,Apr 14 2021 10:31PM
+1,631,LNC,Tim,Kuykendall,tim.kuykendall@dhl.com,LNC,Feb 13 2021  8:20PM,NULL,NULL,Apr 14 2021 10:31PM
+1,633,LNC,Tim,Upham,timothy.upham@dhl.com,LNC,Feb 18 2021  3:33PM,NULL,NULL,Apr 14 2021 10:31PM
+1,634,LNC,Tina,Lopez,tina.lopez@dhl.com,LNC,Mar 14 2021  5:11PM,NULL,NULL,Apr 14 2021 10:31PM
+1,635,LNC,Tito,Rivera,tito.rivera@dhl.com,LNC,Mar 22 2021  9:54PM,NULL,NULL,Apr 14 2021 10:31PM
+1,636,LNC,Tobias,Miller,tobias.miller@dhl.com,LNC,Mar 19 2021  8:11PM,NULL,NULL,Apr 14 2021 10:31PM
+1,637,LNC,Todd,Markley,todd.markley@dhl.com,LNC,Mar 22 2021  4:01PM,NULL,NULL,Apr 14 2021 10:31PM
+1,638,LNC,Todd,Novello,todd.novello@dhl.com,LNC,Jan 29 2021  9:44PM,NULL,NULL,Apr 14 2021 10:31PM
+1,639,LNC,Tony,Reiner,tony.reiner@dhl.com,LNC,Mar 24 2021 11:47AM,NULL,NULL,Apr 14 2021 10:31PM
+1,640,LNC,Tony,Rivera,tony.rivera@dhl.com,LNC,Mar 19 2021  1:06AM,NULL,NULL,Apr 14 2021 10:31PM
+1,641,LNC,Tracie,Donaldson,tracie.donaldson@dhl.com,LNC,Apr  1 2021  9:51AM,NULL,NULL,Apr 14 2021 10:31PM
+1,254,LNC,James,Truite Jr,truitejr.james@dhl.com,LNC,Feb  3 2021  4:28AM,NULL,NULL,Apr 14 2021 10:27PM
+1,643,LNC,Tzetzka,Todorov,tzetzka.todorov@dhl.com,LNC,Apr  1 2021  1:31AM,NULL,NULL,Apr 14 2021 10:31PM
+1,644,LNC,Ubaldo,Moreno,ubaldo.moreno@dhl.com,LNC,Mar 29 2021  7:09PM,NULL,NULL,Apr 14 2021 10:31PM
+1,645,LNC,Ulises,Carro,ulises.carro@dhl.com,LNC,Mar 26 2021  7:16PM,NULL,NULL,Apr 14 2021 10:31PM
+1,18,ccs,Veronica,Barroga,veronica.barroga@dhl.com,ccs,Apr  2 2021  1:59PM,NULL,NULL,Apr 14 2021 10:10PM
+1,646,LNC,Vicente,Oliva,vicente.oliva@dhl.com,LNC,Jan  6 2021  4:16PM,NULL,NULL,Apr 14 2021 10:31PM
+1,647,LNC,Victor,Hernandez,victor.hernandez@dhl.com,LNC,Apr  1 2021  1:41AM,NULL,NULL,Apr 14 2021 10:31PM
+1,649,LNC,Victor,Rodriguez,victorh.rodriguez@dhl.com,LNC,NULL,NULL,NULL,Apr 14 2021 10:31PM
+1,651,LNC,Vishal,Bedi,vishal.bedi@dhl.com,LNC,NULL,NULL,NULL,Apr 14 2021 10:31PM
+1,652,LNC,Vito,Pellegrino,vito.pellegrino@dhl.com,LNC,Mar 21 2021 12:29PM,NULL,NULL,Apr 14 2021 10:31PM
+1,137,LNC,David,Vondracek,vondracek.david@dhl.com,LNC,Mar 31 2021  3:02PM,NULL,NULL,Apr 14 2021 10:26PM
+1,656,LNC,William,Colon,w.colon@dhl.com,LNC,Mar 22 2021 10:38PM,NULL,NULL,Apr 14 2021 10:31PM
+1,653,LNC,Walter,Schmidt,walter.schmidt@dhl.com,LNC,Mar 16 2021  7:55PM,NULL,NULL,Apr 14 2021 10:31PM
+1,654,LNC,Wanda,Williams,wanda.williams@dhl.com,LNC,Mar 31 2021 10:25PM,NULL,NULL,Apr 14 2021 10:31PM
+1,655,LNC,Wayne,Swygert,wayne.swygert@dhl.com,LNC,Mar 27 2021  3:14AM,NULL,NULL,Apr 14 2021 10:31PM
+1,657,LNC,William,Dixon,william.dixon3@dhl.com,LNC,Mar 19 2021  8:03PM,NULL,NULL,Apr 14 2021 10:31PM
+1,658,LNC,William,Haisel,william.haisel@dhl.com,LNC,Mar 31 2021  3:13PM,NULL,NULL,Apr 14 2021 10:31PM
+1,660,LNC,William,Lesesne,william.lesesne@dhl.com,LNC,Mar 19 2021 11:33PM,NULL,NULL,Apr 14 2021 10:31PM
+1,661,LNC,William,Petracca,william.petracca@dhl.com,LNC,Mar 31 2021  6:58PM,NULL,NULL,Apr 14 2021 10:31PM
+1,663,LNC,Willie,Gray,willie.gray@dhl.com,LNC,Mar 31 2021 10:19PM,NULL,NULL,Apr 14 2021 10:31PM
+1,664,LNC,Willie,Marshall,willie.marshall@dhl.com,LNC,Mar 31 2021  8:12PM,NULL,NULL,Apr 14 2021 10:31PM
+1,665,LNC,"Willie ",Tigner,willie.tigner@dhl.com,LNC,Mar 22 2021  4:01PM,NULL,NULL,Apr 14 2021 10:31PM
+1,666,LNC,Winnie,Figueroa,winnie.figueroa@dhl.com,LNC,Mar 31 2021 11:51PM,NULL,NULL,Apr 14 2021 10:31PM
+1,667,LNC,Yadi,Mezeraani,yadi.mezeraani@dhl.com,LNC,Mar 14 2021  7:53PM,NULL,NULL,Apr 14 2021 10:31PM
+1,668,LNC,Yoel,Castillo,yoel.castillo@dhl.com,LNC,Mar 21 2021  3:56PM,NULL,NULL,Apr 14 2021 10:31PM
+1,669,LNC,Yoni,Marroquin,yoni.marroquin1@dhl.com,LNC,Mar 31 2021  8:59PM,NULL,NULL,Apr 14 2021 10:31PM
+1,670,LNC,Yousif,Berkho,yousif.berkho@dhl.com,LNC,Mar 13 2021  9:16PM,NULL,NULL,Apr 14 2021 10:31PM
+1,524,LNC,Rajko,Zec,zec.rajko@dhl.com,LNC,Apr  1 2021 10:24AM,NULL,NULL,Apr 14 2021 10:30PM
+1,187,LNC,Eugene,Zimmerman,zimmerman.eugene@dhl.com,LNC,Mar 10 2021  2:21PM,NULL,NULL,Apr 14 2021 10:26PM
+1,673,LNC,Zoran,Miskovic,zoran.miskovic@dhl.com,LNC,Feb 13 2021  8:20PM,NULL,NULL,Apr 14 2021 10:31PM
