@@ -22,7 +22,8 @@ CREATE TABLE #TempTable
     [LastLogin] NVARCHAR(100),
     [DisabledOn] NVARCHAR(100),
     [Comment] NVARCHAR(100),
-    [DateCreated] NVARCHAR(100)
+    [DateCreated] NVARCHAR(100),
+	[DateUploaded] NVARCHAR(100)
 )
 
 CREATE TABLE #ResultsTable
@@ -37,6 +38,7 @@ CREATE TABLE #ResultsTable
     [DisabledOn] NVARCHAR(100),
     [Comment] NVARCHAR(100),
     [DateCreated] NVARCHAR(100),
+	[DateUploaded] NVARCHAR(100),
     [Id 2] NVARCHAR(100),
     [System 2] NVARCHAR(100),
     [FirstName 2] NVARCHAR(100),
@@ -46,7 +48,8 @@ CREATE TABLE #ResultsTable
     [LastLogin 2] NVARCHAR(100),
     [DisabledOn 2] NVARCHAR(100),
     [Comment 2] NVARCHAR(100),
-    [DateCreated 2] NVARCHAR(100)
+    [DateCreated 2] NVARCHAR(100),
+	[DateUploaded 2] NVARCHAR(100)
 )
 
 
@@ -61,11 +64,12 @@ INSERT INTO #TempTable
     [LastLogin],
     [DisabledOn],
     [Comment],
-    [DateCreated]
-)
+    [DateCreated],
+	[DateUploaded])
 
 --Add new table below 
---Select * from CMX_Product_Users_***
+Select * from CMX_Product_Users_COM
+union
 SELECT *
 FROM CMX_Product_Users_CCS
 UNION
@@ -127,7 +131,13 @@ BEGIN
 
 
     END
+	ELSE IF @Curr_Table = 'COM'
+    BEGIN
 
+        SET @tablename = 'CMX_Product_Users_COM'
+
+
+    END
 
     -- EXEC('SELECT * FROM ' + @tablename)
 
@@ -165,7 +175,8 @@ BEGIN
       ,[LastLogin]
       ,[DisabledOn]
       ,[Comment]
-      ,[DateCreated],
+      ,[DateCreated]
+	  ,[DateUploaded],
 	  
 	   [Id 2]
       ,[System 2]
@@ -176,7 +187,8 @@ BEGIN
       ,[LastLogin 2]
       ,[DisabledOn 2]
       ,[Comment 2]
-      ,[DateCreated 2])
+      ,[DateCreated 2]
+	  ,[DateUploaded 2])
 	  SELECT  * FROM ' + @tablename
           + ' CurrT inner join #TempTable TEMP ON CurrT.UserEmail = Temp.UserEmail where CurrT.FirstName <> Temp.FirstName or CurrT.LastName <> Temp.LastName
 	  '

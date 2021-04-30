@@ -21,7 +21,8 @@ CREATE TABLE #TempTable
     [LastLogin] NVARCHAR(100),
     [DisabledOn] NVARCHAR(100),
     [Comment] NVARCHAR(100),
-    [DateCreated] NVARCHAR(100)
+    [DateCreated] NVARCHAR(100),
+	[DateUploaded] NVARCHAR(100)
 )
 
 
@@ -37,12 +38,14 @@ INSERT INTO #TempTable
     [LastLogin],
     [DisabledOn],
     [Comment],
-    [DateCreated]
+    [DateCreated],
+	[DateUploaded]
 )
 
 
 --Add new table below 
---Select * from CMX_Product_Users_***
+Select * from CMX_Product_Users_COM
+union	
 SELECT *
 FROM CMX_Product_Users_CCS
 UNION

@@ -1,0 +1,1 @@
+TRUNCATE table [CMX_Accounting].[dbo].[CMX_Product_Users_CCS]

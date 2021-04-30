@@ -20,7 +20,8 @@ Create Table #TempTable (
       ,[LastLogin] nvarchar(100)
       ,[DisabledOn] nvarchar(100)
       ,[Comment] nvarchar(100)
-      ,[DateCreated] nvarchar(100))
+      ,[DateCreated] nvarchar(100)
+	  ,[DateUploaded] nvarchar(100))
 
 	  Create Table #ResultsTable (
 
@@ -34,6 +35,7 @@ Create Table #TempTable (
       ,[DisabledOn] nvarchar(100)
       ,[Comment] nvarchar(100)
       ,[DateCreated] nvarchar(100)
+	  ,[DateUploaded] nvarchar(100)
 
 	  ,
 	   [Id 2] nvarchar(100)
@@ -45,7 +47,8 @@ Create Table #TempTable (
       ,[LastLogin 2] nvarchar(100)
       ,[DisabledOn 2] nvarchar(100)
       ,[Comment 2] nvarchar(100)
-      ,[DateCreated 2] nvarchar(100))
+      ,[DateCreated 2] nvarchar(100)
+	  ,[DateUploaded 2] nvarchar(100))
 
 
 insert into #TempTable (
@@ -58,10 +61,12 @@ insert into #TempTable (
       ,[LastLogin]
       ,[DisabledOn]
       ,[Comment]
-      ,[DateCreated])  
+      ,[DateCreated]
+	  ,[DateUploaded])  
 
 --Add new table below 
---Select * from CMX_Product_Users_***
+Select * from CMX_Product_Users_COM
+Union
 Select * from CMX_Product_Users_CCS 
 union 
 select * from CMX_Product_Users_LNC 
@@ -126,6 +131,14 @@ begin
 
 end
 
+Else If @Curr_Table = 'COM'
+
+begin
+
+				set @tablename = 'CMX_Product_Users_COM'
+
+
+end
 
 -- EXEC('SELECT * FROM ' + @tablename)
 
@@ -162,7 +175,8 @@ end
       ,[LastLogin]
       ,[DisabledOn]
       ,[Comment]
-      ,[DateCreated],
+      ,[DateCreated]
+	  ,[DateUploaded],
 	  
 	   [Id 2]
       ,[System 2]
@@ -173,7 +187,8 @@ end
       ,[LastLogin 2]
       ,[DisabledOn 2]
       ,[Comment 2]
-      ,[DateCreated 2])
+      ,[DateCreated 2]
+	  ,[DateUploaded 2])
 	  SELECT  * FROM ' + @tablename + ' CurrT inner join #TempTable TEMP ON CurrT.UserEmail <> Temp.UserEmail where CurrT.FirstName = Temp.FirstName and CurrT.LastName = Temp.LastName
 	  '
 	 EXEC (@queries)
