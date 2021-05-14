@@ -17,11 +17,11 @@ CREATE TABLE #TempTable
     [LastName] NVARCHAR(100),
     [UserEmail] NVARCHAR(100),
     [Station] NVARCHAR(100),
-    [LastLogin] NVARCHAR(100),
-    [DisabledOn] NVARCHAR(100),
+    [LastLogin] Date,
+    [DisabledOn] Date,
     [Comment] NVARCHAR(100),
-    [DateCreated] NVARCHAR(100),
-    [DateUploaded] NVARCHAR(100),
+    [DateCreated] Date,
+    [DateUploaded] Date,
     [DoNotReport] NVARCHAR(100)
 )
 
@@ -33,12 +33,13 @@ CREATE TABLE #DisAbledTable
     [LastName] NVARCHAR(100),
     [UserEmail] NVARCHAR(100),
     [Station] NVARCHAR(100),
-    [LastLogin] NVARCHAR(100),
-    [DisabledOn] NVARCHAR(100),
+    [LastLogin] Date,
+    [DisabledOn] Date,
     [Comment] NVARCHAR(100),
-    [DateCreated] NVARCHAR(100),
-    [DateUploaded] NVARCHAR(100),
-    [DoNotReport] NVARCHAR(100)
+    [DateCreated] Date,
+    [DateUploaded] Date,
+    [DoNotReport] NVARCHAR(100),
+	
 )
 
 CREATE TABLE #StillActiveTable
@@ -49,12 +50,13 @@ CREATE TABLE #StillActiveTable
     [LastName] NVARCHAR(100),
     [UserEmail] NVARCHAR(100),
     [Station] NVARCHAR(100),
-    [LastLogin] NVARCHAR(100),
-    [DisabledOn] NVARCHAR(100),
+    [LastLogin] Date,
+    [DisabledOn] Date,
     [Comment] NVARCHAR(100),
-    [DateCreated] NVARCHAR(100),
-    [DateUploaded] NVARCHAR(100),
-    [DoNotReport] NVARCHAR(100)
+    [DateCreated] Date,
+    [DateUploaded] Date,
+    [DoNotReport] NVARCHAR(100),
+	
 )
 
 CREATE TABLE #ResultsTable
@@ -66,12 +68,13 @@ CREATE TABLE #ResultsTable
     [LastName] NVARCHAR(100),
     [UserEmail] NVARCHAR(100),
     [Station] NVARCHAR(100),
-    [LastLogin] NVARCHAR(100),
-    [DisabledOn] NVARCHAR(100),
+    [LastLogin] Date,
+    [DisabledOn] Date,
     [Comment] NVARCHAR(100),
-    [DateCreated] NVARCHAR(100),
-    [DateUploaded] NVARCHAR(100),
+    [DateCreated] Date,
+    [DateUploaded] Date,
     [DoNotReport] NVARCHAR(100)
+	
 )
 
 INSERT INTO #TempTable
@@ -87,20 +90,29 @@ INSERT INTO #TempTable
     [Comment],
     [DateCreated],
     [DateUploaded],
-    [DoNotReport]
+    [DoNotReport] 
+	
 )
 --Add new table below 
 SELECT *
 FROM CMX_Product_Users_COM
 UNION
 SELECT *
-FROM CMX_Product_Users_CCS
-UNION
-SELECT *
 FROM CMX_Product_Users_LNC
 UNION
 SELECT *
 FROM CMX_Product_Users_MGMS
+union
+
+SELECT TOP (1000) Id, System, FirstName, LastName, userEmail,Station, LastLogin,Null as [DisabledOn],Comment, DateCreated,DateUploaded, DoNotReport   
+  FROM CMX_Product_Users_CCS
+  Where IsDisabled = 0 And LastLogin > DATEADD(dd,-45, '5/1/2021') 
+
+UNION ALL
+
+SELECT TOP (1000) ID, System, FirstName, LastName, userEmail,station, LastLogin,DisabledOn,Comment, DateCreated,DateUploaded, DoNotReport
+  FROM CMX_Product_Users_CCS
+  Where IsDisabled = 1 And DisabledOn > DATEADD(dd,-45, '5/1/2021') 
 
 
 /*
@@ -147,6 +159,7 @@ Return
 --order by FirstName , LastName, UserEmail 
 
 --dump the below into a temp table 
+
 INSERT INTO #ResultsTable
 (
     [Last_Login_Rank],
@@ -198,14 +211,20 @@ WHERE Last_Login_Rank = 1
       (
           Disabledon IS NULL
           OR Cast(DisabledOn AS DATE) > '4/2/2021'
-          OR lastlogin > DATEADD(MONTH, -1, GETDATE())
+          OR lastlogin > DATEADD(DAY, -45, GETDATE())
       )
 ORDER BY UserEmail
 
 
-SELECT *
-FROM #ResultsTable
-ORDER BY UserEmail
+SELECT TOP (1000) FirstName, LastName, userEmail, DateCreated, IsDisabled, LastLogin, Null as [DisabledOn]
+  FROM CMX_Product_Users_CCS
+  Where IsDisabled = 0 And LastLogin > DATEADD(dd,-45, '5/1/2021') 
+
+UNION ALL
+
+SELECT TOP (1000) FirstName, LastName, userEmail, DateCreated, IsDisabled, LastLogin, DisabledOn
+  FROM CMX_Product_Users_CCS
+  Where IsDisabled = 1 And DisabledOn > DATEADD(dd,-45, '5/1/2021') 
 
 --Below is for adding the additional columns to show all apps user has access to 
 SELECT *,
@@ -274,7 +293,8 @@ SELECT *,
            ORDER BY LastLogin DESC
        ) AS COM_LastLogin
 FROM #ResultsTable
-ORDER BY UserEmail
+ORDER BY UserEmail 
+
 --select * from #tempTable  WHERE UserEmail > '0' order by UserEmail
 
 /*select * from #temptable where UserEmail in ( 
