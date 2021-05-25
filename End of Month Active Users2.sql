@@ -9,6 +9,8 @@ IF OBJECT_ID('tempdb..#DisAbledTable') IS NOT NULL
 IF OBJECT_ID('tempdb..#StillActiveTable') IS NOT NULL
     DROP TABLE #StillActiveTable
 
+DECLARE @Dateupload Date = '05/18/2021'
+
 CREATE TABLE #TempTable
 (
     [Id] NVARCHAR(100),
@@ -22,7 +24,10 @@ CREATE TABLE #TempTable
     [Comment] NVARCHAR(100),
     [DateCreated] Date,
     [DateUploaded] Date,
-    [DoNotReport] NVARCHAR(100)
+    [DoNotReport] NVARCHAR(100),
+	[IsDisabled] bit,
+	[DoNotDisable] bit,
+	[Notes] NVARCHAR(100)
 )
 
 CREATE TABLE #DisAbledTable
@@ -39,6 +44,9 @@ CREATE TABLE #DisAbledTable
     [DateCreated] Date,
     [DateUploaded] Date,
     [DoNotReport] NVARCHAR(100),
+	[IsDisabled] bit,
+	[DoNotDisable] bit,
+	[Notes] NVARCHAR(100)
 	
 )
 
@@ -56,6 +64,9 @@ CREATE TABLE #StillActiveTable
     [DateCreated] Date,
     [DateUploaded] Date,
     [DoNotReport] NVARCHAR(100),
+	[IsDisabled] bit,
+	[DoNotDisable] bit,
+	[Notes] NVARCHAR(100)
 	
 )
 
@@ -73,7 +84,10 @@ CREATE TABLE #ResultsTable
     [Comment] NVARCHAR(100),
     [DateCreated] Date,
     [DateUploaded] Date,
-    [DoNotReport] NVARCHAR(100)
+    [DoNotReport] NVARCHAR(100),
+	[IsDisabled] bit,
+	[DoNotDisable] bit,
+	[Notes] NVARCHAR(100)
 	
 )
 
@@ -90,38 +104,63 @@ INSERT INTO #TempTable
     [Comment],
     [DateCreated],
     [DateUploaded],
-    [DoNotReport] 
-	
+    [DoNotReport], 
+	[IsDisabled],
+	[DoNotDisable],
+	[Notes]
 )
 --Add new table below 
 SELECT *
 FROM CMX_Product_Users_COM
-UNION
-SELECT *
-FROM CMX_Product_Users_LNC
+--where DateUploaded > @Dateupload
 UNION
 SELECT *
 FROM CMX_Product_Users_MGMS
-union
-
-SELECT TOP (1000) Id, System, FirstName, LastName, userEmail,Station, LastLogin,Null as [DisabledOn],Comment, DateCreated,DateUploaded, DoNotReport   
-  FROM CMX_Product_Users_CCS
-  Where IsDisabled = 0 And LastLogin > DATEADD(dd,-45, '5/1/2021') 
+where DateUploaded > @Dateupload
+UNION
+--SELECT *
+--FROM CMX_Product_Users_LNC
+--where DateUploaded > @Dateupload
+SELECT TOP (1000) Id, System, FirstName, LastName, userEmail,Station, LastLogin,Null as [DisabledOn],Comment, DateCreated,DateUploaded, DoNotReport, IsDisabled, DoNotDisable, Notes
+  FROM CMX_Product_Users_LNC
+  where DateUploaded > @Dateupload 
+  And IsDisabled = 0 And LastLogin > DATEADD(dd,-45, '5/1/2021') 
 
 UNION ALL
 
-SELECT TOP (1000) ID, System, FirstName, LastName, userEmail,station, LastLogin,DisabledOn,Comment, DateCreated,DateUploaded, DoNotReport
+SELECT TOP (1000) ID, System, FirstName, LastName, userEmail,station, LastLogin,
+
+Case
+	when  [DisabledOn] is NULL and LastLogin is NOT NULL  then LastLogin
+	else DisabledOn end as DisabledOn,
+
+ Comment, DateCreated,DateUploaded, DoNotReport, IsDisabled, DoNotDisable, Notes
+  FROM CMX_Product_Users_lnc
+  where DateUploaded > @Dateupload 
+  and IsDisabled = 1 And DisabledOn > DATEADD(dd,-45, '5/1/2021') 
+  
+union
+
+SELECT TOP (1000) Id, System, FirstName, LastName, userEmail,Station, LastLogin,Null as [DisabledOn],Comment, DateCreated,DateUploaded, DoNotReport, IsDisabled, DoNotDisable, Notes
   FROM CMX_Product_Users_CCS
-  Where IsDisabled = 1 And DisabledOn > DATEADD(dd,-45, '5/1/2021') 
+  where DateUploaded > @Dateupload 
+  And IsDisabled = 0 And LastLogin > DATEADD(dd,-45, '5/1/2021') 
+
+UNION ALL
+
+SELECT TOP (1000) ID, System, FirstName, LastName, userEmail,station, LastLogin,DisabledOn, Comment, DateCreated,DateUploaded, DoNotReport, IsDisabled, DoNotDisable, Notes
+  FROM CMX_Product_Users_CCS
+  where DateUploaded > @Dateupload 
+  and IsDisabled = 1 And DisabledOn > DATEADD(dd,-45, '5/1/2021') 
+  
+  
+
+--To help select everything from the temp table where email address in disabled on is < march 31 and email address not in lastlogin is > march 1 
 
 
-/*
-To help select everything from the temp table where email address in disabled on is < march 31 and email address not in lastlogin is > march 1 
-*/
-/*
  ---  User Disabled after 4/1 and have NOT been active since 4/1
  INSERT INTO #DisAbledTable
-([Id], [System], [FirstName], [LastName], [UserEmail], [Station], [LastLogin], [DisabledOn], [Comment], [DateCreated], [DateUploaded], [DoNotReport])
+([Id], [System], [FirstName], [LastName], [UserEmail], [Station], [LastLogin], [DisabledOn], [Comment], [DateCreated], [DateUploaded], [DoNotReport],[IsDisabled],[DoNotDisable],[Notes])
 
 Select * From #TempTable Where UserEmail IN	(select UserEmail from #TempTable where CAST(DisabledOn As Date) >= '4/1/2021')
  and UserEmail NOT IN  (select UserEmail from #TempTable where CAST(LastLogin As DATE) >= '4/01/2021')
@@ -130,8 +169,8 @@ Select * From #TempTable Where UserEmail IN	(select UserEmail from #TempTable wh
 --- Select * From #TempTable Where UserEmail IN ('rodolfo.garcia@dhl.com','cynthia.martinez@dhl.com') Order By UserEmail, DisabledOn, LastLogin
 
 ---  User Disabled after 4/1 BUT have been active since 4/1
-INSERT INTO #StillActiveTable
-([Id], [System], [FirstName], [LastName], [UserEmail], [Station], [LastLogin], [DisabledOn], [Comment], [DateCreated], [DateUploaded], [DoNotReport])
+/*INSERT INTO #StillActiveTable
+([Id], [System], [FirstName], [LastName], [UserEmail], [Station], [LastLogin], [DisabledOn], [Comment], [DateCreated], [DateUploaded], [DoNotReport],[IsDisabled],[DoNotDisable],[Notes])
 
 Select * From #TempTable Where UserEmail IN
 	(select UserEmail from #TempTable where CAST(DisabledOn As Date) >= '4/1/2021')
@@ -142,13 +181,13 @@ Select * From #TempTable Where UserEmail IN ('dolores.scarpati@dhl.com','vito.pe
 
 
 Select '' As [Id], '' As [System], 'Disabled Users' As [FirstName], 'Disabled Users' As [LastName], 'Disabled Users' As [UserEmail], '' As [Station], '' As[ LastLogin]
-	, '' As [DisabledOn], '' As [Comment], '' As [DateCreated], '' As [DateUploaded], '' As [DoNotReport]
+	, '' As [DisabledOn], '' As [Comment], '' As [DateCreated], '' As [DateUploaded], '' As [DoNotReport],  '' As [IsDisabled], '' As [DoNotDisable], '' As [Notes]
 UNION
 Select * From #DisAbledTable
 
 
 Select '' As [Id], '' As [System], 'StillActive Users' As [FirstName], 'StillActive Users' As [LastName], 'StillActive Users' As [UserEmail], '' As [Station], '' As[ LastLogin]
-	, '' As [DisabledOn], '' As [Comment], '' As [DateCreated], '' As [DateUploaded], '' As [DoNotReport]
+	, '' As [DisabledOn], '' As [Comment], '' As [DateCreated], '' As [DateUploaded], '' As [DoNotReport], '' As [IsDisabled], '' As [DoNotDisable], '' As [Notes]
 UNION
 Select * From #StillActiveTable
 
@@ -174,7 +213,10 @@ INSERT INTO #ResultsTable
     [Comment],
     [DateCreated],
     [DateUploaded],
-    [DoNotReport]
+    [DoNotReport],
+	[IsDisabled],
+	[DoNotDisable],
+	[Notes]
 )
 SELECT *
 FROM
@@ -215,19 +257,24 @@ WHERE Last_Login_Rank = 1
       )
 ORDER BY UserEmail
 
-
-SELECT TOP (1000) FirstName, LastName, userEmail, DateCreated, IsDisabled, LastLogin, Null as [DisabledOn]
-  FROM CMX_Product_Users_CCS
-  Where IsDisabled = 0 And LastLogin > DATEADD(dd,-45, '5/1/2021') 
-
-UNION ALL
-
-SELECT TOP (1000) FirstName, LastName, userEmail, DateCreated, IsDisabled, LastLogin, DisabledOn
-  FROM CMX_Product_Users_CCS
-  Where IsDisabled = 1 And DisabledOn > DATEADD(dd,-45, '5/1/2021') 
-
 --Below is for adding the additional columns to show all apps user has access to 
-SELECT *,
+SELECT [System],
+    [FirstName],
+    [LastName],
+    [UserEmail],
+    [Station],
+    [LastLogin],
+     [DisabledOn], 
+	/*Case
+	when NOT [DisabledOn] is NULL and (
+	LastLogin is NULL or(LastLogin < DisabledOn)) then DisabledOn
+	when NOT [DisabledOn] is NULL and (
+	LastLogin is NULL or(LastLogin > DisabledOn)) then DisabledOn
+	when NOT [DisabledOn] is NULL and ( lastlogin > DATEADD(DAY, -45, GETDATE())) then DisabledOn
+	else NULL end as Disabled_Date,*/
+    [Comment],
+    [DateCreated],
+    [DateUploaded],
        (
            SELECT TOP 1
                   Station
@@ -282,7 +329,7 @@ SELECT *,
            FROM #TempTable
            WHERE #TempTable.UserEmail = #ResultsTable.UserEmail
                  AND system = 'COM'
-           ORDER BY LastLogin DESC
+           ORDER BY LastLogin desc
        ) AS COM_Station,
        (
            SELECT TOP 1
@@ -290,10 +337,11 @@ SELECT *,
            FROM #TempTable
            WHERE #TempTable.UserEmail = #ResultsTable.UserEmail
                  AND system = 'COM'
-           ORDER BY LastLogin DESC
+           ORDER BY disabledon DESC
        ) AS COM_LastLogin
 FROM #ResultsTable
-ORDER BY UserEmail 
+/*where UserEmail in ('mary.carter@dhl.com','Carlos.torres@dhl.com','ivan.martinez@dhl.com','antoni.kowalski@dhl.com','judy.sprouse_dill@dhl.com','jun.inomata@dhl.com','gandseyiv.george@dhl.com','henze.robert@dhl.com','faulkner.mike@dhl.com','rich.gols@dhl.com','jesus.hernandez@dhl.com','l.hinkelday@dhl.com','agusto.oliva@dhl.com','jose.negrete@dhl.com','christopher.fowler@dhl.com','chuck.cox@dhl.com','sally.esparza@dhl.com','richard.cox2@dhl.com','mark.abbott2@dhl.com','ricardo.rodriguez@dhl.com','zimmerman.eugene@dhl.com','ira.miller@dhl.com')*/
+ORDER BY FirstName
 
 --select * from #tempTable  WHERE UserEmail > '0' order by UserEmail
 
@@ -312,6 +360,10 @@ FROM CMX_Product_Users_OLD right JOIN #ResultsTable on CMX_Product_Users_OLD.Use
 -- and (CMX_Product_Users_OLD.DisabledOn is NULL or CMX_Product_Users_OLD.DisabledOn < '0')
  
  ) order by #TempTable.UserEmail*/
+
+ SELECT * FROM CMX_Product_Users_OLD right JOIN #ResultsTable on CMX_Product_Users_OLD.firstname = #ResultsTable.UserEmail where CMX_Product_Users_OLD.FirstName is NULL and #ResultsTable.Comment NOT like '%sunset%' 
+ 
+ order by #ResultsTable.DisabledOn desc , #ResultsTable.LastLogin
 
 
 IF OBJECT_ID('tempdb..#TempTable') IS NOT NULL

@@ -1,0 +1,10 @@
+SELECT TOP (1000) [Id]
+      ,[FirstName]
+      ,[LastName]
+      ,[Email]
+      ,[DateCreated]
+      ,[IsDisabled]
+      ,[LastLoginDate]
+      ,[LastAccDisableDate]
+      
+  FROM [CCSDB].[Acct].[Users]
